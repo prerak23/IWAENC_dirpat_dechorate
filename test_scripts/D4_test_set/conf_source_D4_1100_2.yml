@@ -1,0 +1,3600 @@
+room_0:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.705
+    - 2.886
+    - 1.059
+  source_ypr:
+  - - -53.0
+    - 45.0
+room_1:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.477
+    - 2.591
+    - 1.197
+  source_ypr:
+  - - -51.0
+    - 45.0
+room_10:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.368
+    - 1.099
+    - 1.425
+  source_ypr:
+  - - -14.0
+    - 45.0
+room_100:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.372
+    - 6.865
+    - 1.63
+  source_ypr:
+  - - -76.0
+    - 45.0
+room_101:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.132
+    - 1.117
+    - 1.474
+  source_ypr:
+  - - -44.0
+    - 45.0
+room_102:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.28
+    - 1.159
+    - 0.577
+  source_ypr:
+  - - 8.0
+    - 45.0
+room_103:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.579
+    - 0.656
+    - 1.756
+  source_ypr:
+  - - -65.0
+    - 45.0
+room_104:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.715
+    - 0.897
+    - 3.749
+  source_ypr:
+  - - -180.0
+    - 45.0
+room_105:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 8.528
+    - 8.996
+    - 2.151
+  source_ypr:
+  - - -148.0
+    - 45.0
+room_106:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.507
+    - 0.677
+    - 1.525
+  source_ypr:
+  - - -47.0
+    - 45.0
+room_107:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.259
+    - 0.455
+    - 1.617
+  source_ypr:
+  - - 88.0
+    - 45.0
+room_108:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.317
+    - 4.502
+    - 0.713
+  source_ypr:
+  - - 54.0
+    - 45.0
+room_109:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.769
+    - 3.197
+    - 1.983
+  source_ypr:
+  - - -159.0
+    - 45.0
+room_11:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 9.427
+    - 1.207
+    - 1.502
+  source_ypr:
+  - - -128.0
+    - 45.0
+room_110:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.85
+    - 2.424
+    - 2.074
+  source_ypr:
+  - - 161.0
+    - 45.0
+room_111:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.278
+    - 1.348
+    - 1.687
+  source_ypr:
+  - - 47.0
+    - 45.0
+room_112:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.47
+    - 6.664
+    - 1.575
+  source_ypr:
+  - - 167.0
+    - 45.0
+room_113:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.539
+    - 1.678
+    - 1.105
+  source_ypr:
+  - - -91.0
+    - 45.0
+room_114:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.062
+    - 2.6
+    - 1.463
+  source_ypr:
+  - - 40.0
+    - 45.0
+room_115:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.596
+    - 2.04
+    - 0.38
+  source_ypr:
+  - - 23.0
+    - 45.0
+room_116:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.006
+    - 0.742
+    - 2.219
+  source_ypr:
+  - - -29.0
+    - 45.0
+room_117:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.564
+    - 0.778
+    - 2.582
+  source_ypr:
+  - - -156.0
+    - 45.0
+room_118:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.639
+    - 2.407
+    - 2.302
+  source_ypr:
+  - - -33.0
+    - 45.0
+room_119:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.782
+    - 6.505
+    - 2.87
+  source_ypr:
+  - - -72.0
+    - 45.0
+room_12:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.465
+    - 1.893
+    - 1.436
+  source_ypr:
+  - - 1.0
+    - 45.0
+room_120:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.008
+    - 0.507
+    - 2.675
+  source_ypr:
+  - - -102.0
+    - 45.0
+room_121:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.798
+    - 3.332
+    - 0.914
+  source_ypr:
+  - - -19.0
+    - 45.0
+room_122:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.169
+    - 0.426
+    - 1.28
+  source_ypr:
+  - - -81.0
+    - 45.0
+room_123:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.348
+    - 1.497
+    - 1.549
+  source_ypr:
+  - - -13.0
+    - 45.0
+room_124:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.105
+    - 0.495
+    - 0.63
+  source_ypr:
+  - - 138.0
+    - 45.0
+room_125:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.327
+    - 1.267
+    - 1.068
+  source_ypr:
+  - - 100.0
+    - 45.0
+room_126:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.708
+    - 2.422
+    - 3.616
+  source_ypr:
+  - - -135.0
+    - 45.0
+room_127:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.706
+    - 1.869
+    - 1.505
+  source_ypr:
+  - - 1.0
+    - 45.0
+room_128:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.325
+    - 0.384
+    - 1.5
+  source_ypr:
+  - - 101.0
+    - 45.0
+room_129:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.318
+    - 2.938
+    - 1.06
+  source_ypr:
+  - - -175.0
+    - 45.0
+room_13:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.285
+    - 2.939
+    - 0.862
+  source_ypr:
+  - - -143.0
+    - 45.0
+room_130:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.714
+    - 6.017
+    - 1.223
+  source_ypr:
+  - - -5.0
+    - 45.0
+room_131:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.081
+    - 0.831
+    - 1.351
+  source_ypr:
+  - - 65.0
+    - 45.0
+room_132:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.444
+    - 0.825
+    - 3.092
+  source_ypr:
+  - - 155.0
+    - 45.0
+room_133:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.555
+    - 2.64
+    - 3.105
+  source_ypr:
+  - - 65.0
+    - 45.0
+room_134:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.844
+    - 5.468
+    - 0.806
+  source_ypr:
+  - - -59.0
+    - 45.0
+room_135:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.172
+    - 5.172
+    - 0.667
+  source_ypr:
+  - - -172.0
+    - 45.0
+room_136:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.568
+    - 1.891
+    - 1.286
+  source_ypr:
+  - - -32.0
+    - 45.0
+room_137:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.926
+    - 1.84
+    - 2.355
+  source_ypr:
+  - - 61.0
+    - 45.0
+room_138:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.351
+    - 2.696
+    - 2.566
+  source_ypr:
+  - - 95.0
+    - 45.0
+room_139:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.606
+    - 3.406
+    - 1.816
+  source_ypr:
+  - - -83.0
+    - 45.0
+room_14:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.12
+    - 2.39
+    - 0.805
+  source_ypr:
+  - - 159.0
+    - 45.0
+room_140:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.531
+    - 5.509
+    - 1.503
+  source_ypr:
+  - - 81.0
+    - 45.0
+room_141:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.978
+    - 2.679
+    - 2.925
+  source_ypr:
+  - - 140.0
+    - 45.0
+room_142:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.94
+    - 1.254
+    - 2.626
+  source_ypr:
+  - - 80.0
+    - 45.0
+room_143:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.4
+    - 7.482
+    - 1.764
+  source_ypr:
+  - - -81.0
+    - 45.0
+room_144:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 7.659
+    - 2.343
+    - 0.903
+  source_ypr:
+  - - 54.0
+    - 45.0
+room_145:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.125
+    - 7.57
+    - 1.179
+  source_ypr:
+  - - 62.0
+    - 45.0
+room_146:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.24
+    - 0.959
+    - 2.245
+  source_ypr:
+  - - -51.0
+    - 45.0
+room_147:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.335
+    - 2.783
+    - 0.665
+  source_ypr:
+  - - -115.0
+    - 45.0
+room_148:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.653
+    - 3.449
+    - 0.816
+  source_ypr:
+  - - 88.0
+    - 45.0
+room_149:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.539
+    - 8.188
+    - 2.13
+  source_ypr:
+  - - -141.0
+    - 45.0
+room_15:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.646
+    - 3.786
+    - 2.385
+  source_ypr:
+  - - -104.0
+    - 45.0
+room_150:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.475
+    - 2.946
+    - 1.971
+  source_ypr:
+  - - 162.0
+    - 45.0
+room_151:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.239
+    - 6.278
+    - 1.727
+  source_ypr:
+  - - -131.0
+    - 45.0
+room_152:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.51
+    - 2.337
+    - 2.572
+  source_ypr:
+  - - 174.0
+    - 45.0
+room_153:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.266
+    - 3.757
+    - 1.755
+  source_ypr:
+  - - -49.0
+    - 45.0
+room_154:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.693
+    - 5.92
+    - 1.058
+  source_ypr:
+  - - 141.0
+    - 45.0
+room_155:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.39
+    - 2.892
+    - 0.758
+  source_ypr:
+  - - -60.0
+    - 45.0
+room_156:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.113
+    - 1.282
+    - 1.289
+  source_ypr:
+  - - -154.0
+    - 45.0
+room_157:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.035
+    - 2.048
+    - 2.57
+  source_ypr:
+  - - -31.0
+    - 45.0
+room_158:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.366
+    - 0.738
+    - 1.068
+  source_ypr:
+  - - -56.0
+    - 45.0
+room_159:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.968
+    - 7.127
+    - 2.918
+  source_ypr:
+  - - -52.0
+    - 45.0
+room_16:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.773
+    - 2.698
+    - 0.954
+  source_ypr:
+  - - 7.0
+    - 45.0
+room_160:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.886
+    - 1.307
+    - 1.368
+  source_ypr:
+  - - -50.0
+    - 45.0
+room_161:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.703
+    - 2.048
+    - 0.468
+  source_ypr:
+  - - 125.0
+    - 45.0
+room_162:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.849
+    - 2.295
+    - 0.99
+  source_ypr:
+  - - 159.0
+    - 45.0
+room_163:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.536
+    - 2.664
+    - 3.198
+  source_ypr:
+  - - 78.0
+    - 45.0
+room_164:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.694
+    - 1.337
+    - 1.067
+  source_ypr:
+  - - -126.0
+    - 45.0
+room_165:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.768
+    - 4.11
+    - 2.299
+  source_ypr:
+  - - -86.0
+    - 45.0
+room_166:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.896
+    - 6.364
+    - 2.457
+  source_ypr:
+  - - -95.0
+    - 45.0
+room_167:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.839
+    - 1.423
+    - 1.445
+  source_ypr:
+  - - 68.0
+    - 45.0
+room_168:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.96
+    - 2.133
+    - 0.348
+  source_ypr:
+  - - -83.0
+    - 45.0
+room_169:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.18
+    - 0.365
+    - 2.826
+  source_ypr:
+  - - 141.0
+    - 45.0
+room_17:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.762
+    - 2.247
+    - 1.381
+  source_ypr:
+  - - 153.0
+    - 45.0
+room_170:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.515
+    - 1.963
+    - 0.914
+  source_ypr:
+  - - -131.0
+    - 45.0
+room_171:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.61
+    - 5.96
+    - 1.06
+  source_ypr:
+  - - 63.0
+    - 45.0
+room_172:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.31
+    - 3.207
+    - 1.462
+  source_ypr:
+  - - -48.0
+    - 45.0
+room_173:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.512
+    - 4.461
+    - 2.037
+  source_ypr:
+  - - 87.0
+    - 45.0
+room_174:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.542
+    - 1.216
+    - 1.987
+  source_ypr:
+  - - -33.0
+    - 45.0
+room_175:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.038
+    - 0.793
+    - 0.681
+  source_ypr:
+  - - 88.0
+    - 45.0
+room_176:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.555
+    - 3.326
+    - 0.898
+  source_ypr:
+  - - -109.0
+    - 45.0
+room_177:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.49
+    - 3.873
+    - 0.704
+  source_ypr:
+  - - -110.0
+    - 45.0
+room_178:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.785
+    - 0.543
+    - 2.189
+  source_ypr:
+  - - 15.0
+    - 45.0
+room_179:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.383
+    - 0.772
+    - 1.736
+  source_ypr:
+  - - -179.0
+    - 45.0
+room_18:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.469
+    - 1.88
+    - 0.908
+  source_ypr:
+  - - 19.0
+    - 45.0
+room_180:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.234
+    - 5.209
+    - 2.752
+  source_ypr:
+  - - -16.0
+    - 45.0
+room_181:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.876
+    - 6.597
+    - 0.342
+  source_ypr:
+  - - -55.0
+    - 45.0
+room_182:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.278
+    - 2.179
+    - 0.875
+  source_ypr:
+  - - 71.0
+    - 45.0
+room_183:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.667
+    - 2.628
+    - 0.878
+  source_ypr:
+  - - -179.0
+    - 45.0
+room_184:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.114
+    - 3.113
+    - 2.546
+  source_ypr:
+  - - 145.0
+    - 45.0
+room_185:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.983
+    - 2.292
+    - 1.554
+  source_ypr:
+  - - 22.0
+    - 45.0
+room_186:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.74
+    - 2.051
+    - 1.124
+  source_ypr:
+  - - 121.0
+    - 45.0
+room_187:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.913
+    - 1.597
+    - 1.338
+  source_ypr:
+  - - 142.0
+    - 45.0
+room_188:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.546
+    - 4.55
+    - 1.901
+  source_ypr:
+  - - -43.0
+    - 45.0
+room_189:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.335
+    - 1.53
+    - 1.341
+  source_ypr:
+  - - 111.0
+    - 45.0
+room_19:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 6.944
+    - 0.64
+    - 0.316
+  source_ypr:
+  - - -70.0
+    - 45.0
+room_190:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.526
+    - 0.947
+    - 2.981
+  source_ypr:
+  - - -69.0
+    - 45.0
+room_191:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.058
+    - 2.503
+    - 1.219
+  source_ypr:
+  - - 5.0
+    - 45.0
+room_192:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.518
+    - 2.654
+    - 1.409
+  source_ypr:
+  - - -166.0
+    - 45.0
+room_193:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.436
+    - 0.773
+    - 0.819
+  source_ypr:
+  - - -32.0
+    - 45.0
+room_194:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.528
+    - 3.932
+    - 2.493
+  source_ypr:
+  - - 19.0
+    - 45.0
+room_195:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.946
+    - 3.243
+    - 0.615
+  source_ypr:
+  - - -37.0
+    - 45.0
+room_196:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.661
+    - 0.698
+    - 2.322
+  source_ypr:
+  - - 168.0
+    - 45.0
+room_197:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.269
+    - 1.029
+    - 2.743
+  source_ypr:
+  - - -36.0
+    - 45.0
+room_198:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.033
+    - 0.687
+    - 1.816
+  source_ypr:
+  - - -68.0
+    - 45.0
+room_199:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.632
+    - 5.48
+    - 1.812
+  source_ypr:
+  - - -15.0
+    - 45.0
+room_2:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.732
+    - 3.872
+    - 2.126
+  source_ypr:
+  - - 80.0
+    - 45.0
+room_20:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.923
+    - 3.324
+    - 1.237
+  source_ypr:
+  - - -178.0
+    - 45.0
+room_200:
+  directivity: CARDIOID
+  source_pos:
+  - - 9.278
+    - 0.885
+    - 3.685
+  source_ypr:
+  - - -70.0
+    - 45.0
+room_201:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.319
+    - 6.594
+    - 3.49
+  source_ypr:
+  - - -169.0
+    - 45.0
+room_202:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 7.335
+    - 1.203
+    - 0.465
+  source_ypr:
+  - - 121.0
+    - 45.0
+room_203:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.731
+    - 3.463
+    - 3.522
+  source_ypr:
+  - - -47.0
+    - 45.0
+room_204:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.258
+    - 2.45
+    - 0.626
+  source_ypr:
+  - - -110.0
+    - 45.0
+room_205:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.264
+    - 2.907
+    - 0.374
+  source_ypr:
+  - - -117.0
+    - 45.0
+room_206:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.104
+    - 1.455
+    - 1.318
+  source_ypr:
+  - - 155.0
+    - 45.0
+room_207:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.852
+    - 0.331
+    - 0.44
+  source_ypr:
+  - - -153.0
+    - 45.0
+room_208:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.941
+    - 0.975
+    - 3.485
+  source_ypr:
+  - - -27.0
+    - 45.0
+room_209:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.505
+    - 3.137
+    - 0.721
+  source_ypr:
+  - - -41.0
+    - 45.0
+room_21:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.267
+    - 2.715
+    - 1.871
+  source_ypr:
+  - - 102.0
+    - 45.0
+room_210:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.474
+    - 0.66
+    - 0.995
+  source_ypr:
+  - - 17.0
+    - 45.0
+room_211:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.367
+    - 3.244
+    - 3.082
+  source_ypr:
+  - - -55.0
+    - 45.0
+room_212:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.301
+    - 1.798
+    - 0.592
+  source_ypr:
+  - - -137.0
+    - 45.0
+room_213:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.483
+    - 1.653
+    - 0.675
+  source_ypr:
+  - - 144.0
+    - 45.0
+room_214:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.681
+    - 1.737
+    - 0.703
+  source_ypr:
+  - - -64.0
+    - 45.0
+room_215:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.202
+    - 2.022
+    - 1.049
+  source_ypr:
+  - - -51.0
+    - 45.0
+room_216:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.316
+    - 5.504
+    - 2.97
+  source_ypr:
+  - - 73.0
+    - 45.0
+room_217:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.804
+    - 4.507
+    - 1.592
+  source_ypr:
+  - - 96.0
+    - 45.0
+room_218:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.022
+    - 0.845
+    - 2.529
+  source_ypr:
+  - - 145.0
+    - 45.0
+room_219:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.11
+    - 1.483
+    - 2.646
+  source_ypr:
+  - - -20.0
+    - 45.0
+room_22:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.766
+    - 6.58
+    - 1.569
+  source_ypr:
+  - - -142.0
+    - 45.0
+room_220:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.113
+    - 2.088
+    - 0.623
+  source_ypr:
+  - - 46.0
+    - 45.0
+room_221:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.959
+    - 2.611
+    - 2.747
+  source_ypr:
+  - - -77.0
+    - 45.0
+room_222:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.387
+    - 0.401
+    - 2.158
+  source_ypr:
+  - - -7.0
+    - 45.0
+room_223:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.332
+    - 9.068
+    - 1.278
+  source_ypr:
+  - - 119.0
+    - 45.0
+room_224:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.674
+    - 2.621
+    - 1.735
+  source_ypr:
+  - - 89.0
+    - 45.0
+room_225:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.289
+    - 1.199
+    - 0.68
+  source_ypr:
+  - - -122.0
+    - 45.0
+room_226:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.654
+    - 1.144
+    - 1.702
+  source_ypr:
+  - - -142.0
+    - 45.0
+room_227:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 6.506
+    - 5.322
+    - 1.782
+  source_ypr:
+  - - 137.0
+    - 45.0
+room_228:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.362
+    - 2.483
+    - 2.798
+  source_ypr:
+  - - 30.0
+    - 45.0
+room_229:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.727
+    - 7.376
+    - 0.386
+  source_ypr:
+  - - 7.0
+    - 45.0
+room_23:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.825
+    - 0.849
+    - 2.375
+  source_ypr:
+  - - -10.0
+    - 45.0
+room_230:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.261
+    - 1.303
+    - 0.672
+  source_ypr:
+  - - -173.0
+    - 45.0
+room_231:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.247
+    - 4.451
+    - 3.133
+  source_ypr:
+  - - 28.0
+    - 45.0
+room_232:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.211
+    - 2.422
+    - 1.509
+  source_ypr:
+  - - -36.0
+    - 45.0
+room_233:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.868
+    - 1.396
+    - 1.167
+  source_ypr:
+  - - -119.0
+    - 45.0
+room_234:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.444
+    - 4.646
+    - 1.91
+  source_ypr:
+  - - -107.0
+    - 45.0
+room_235:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.907
+    - 3.923
+    - 0.466
+  source_ypr:
+  - - 105.0
+    - 45.0
+room_236:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.496
+    - 4.283
+    - 1.316
+  source_ypr:
+  - - 152.0
+    - 45.0
+room_237:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.705
+    - 2.726
+    - 0.491
+  source_ypr:
+  - - 41.0
+    - 45.0
+room_238:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.029
+    - 2.688
+    - 1.643
+  source_ypr:
+  - - 104.0
+    - 45.0
+room_239:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.588
+    - 7.688
+    - 2.623
+  source_ypr:
+  - - -46.0
+    - 45.0
+room_24:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.134
+    - 3.399
+    - 0.9
+  source_ypr:
+  - - -138.0
+    - 45.0
+room_240:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.229
+    - 1.826
+    - 0.964
+  source_ypr:
+  - - 58.0
+    - 45.0
+room_241:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.398
+    - 2.601
+    - 0.595
+  source_ypr:
+  - - -139.0
+    - 45.0
+room_242:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 7.084
+    - 2.478
+    - 1.718
+  source_ypr:
+  - - 177.0
+    - 45.0
+room_243:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.731
+    - 2.087
+    - 2.532
+  source_ypr:
+  - - 88.0
+    - 45.0
+room_244:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.975
+    - 3.579
+    - 0.837
+  source_ypr:
+  - - -105.0
+    - 45.0
+room_245:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.036
+    - 5.341
+    - 0.546
+  source_ypr:
+  - - -23.0
+    - 45.0
+room_246:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.733
+    - 3.288
+    - 3.622
+  source_ypr:
+  - - -150.0
+    - 45.0
+room_247:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.393
+    - 2.441
+    - 2.677
+  source_ypr:
+  - - 0.0
+    - 45.0
+room_248:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.437
+    - 5.16
+    - 1.738
+  source_ypr:
+  - - 168.0
+    - 45.0
+room_249:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.315
+    - 2.188
+    - 2.035
+  source_ypr:
+  - - -105.0
+    - 45.0
+room_25:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.11
+    - 0.36
+    - 0.747
+  source_ypr:
+  - - -132.0
+    - 45.0
+room_250:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.988
+    - 0.784
+    - 0.579
+  source_ypr:
+  - - -55.0
+    - 45.0
+room_251:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.973
+    - 4.423
+    - 0.658
+  source_ypr:
+  - - 73.0
+    - 45.0
+room_252:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.417
+    - 6.912
+    - 0.965
+  source_ypr:
+  - - 48.0
+    - 45.0
+room_253:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.479
+    - 8.053
+    - 0.906
+  source_ypr:
+  - - -162.0
+    - 45.0
+room_254:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.078
+    - 0.983
+    - 2.015
+  source_ypr:
+  - - -125.0
+    - 45.0
+room_255:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.95
+    - 1.004
+    - 1.009
+  source_ypr:
+  - - 48.0
+    - 45.0
+room_256:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.498
+    - 3.046
+    - 0.36
+  source_ypr:
+  - - -62.0
+    - 45.0
+room_257:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.89
+    - 2.056
+    - 2.757
+  source_ypr:
+  - - 31.0
+    - 45.0
+room_258:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.635
+    - 3.437
+    - 1.738
+  source_ypr:
+  - - 161.0
+    - 45.0
+room_259:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.357
+    - 2.632
+    - 1.494
+  source_ypr:
+  - - -75.0
+    - 45.0
+room_26:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.654
+    - 4.34
+    - 0.825
+  source_ypr:
+  - - 168.0
+    - 45.0
+room_260:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.563
+    - 3.677
+    - 0.915
+  source_ypr:
+  - - -163.0
+    - 45.0
+room_261:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.911
+    - 2.166
+    - 0.629
+  source_ypr:
+  - - 131.0
+    - 45.0
+room_262:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.273
+    - 1.705
+    - 2.952
+  source_ypr:
+  - - -84.0
+    - 45.0
+room_263:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.946
+    - 4.606
+    - 0.856
+  source_ypr:
+  - - 128.0
+    - 45.0
+room_264:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.179
+    - 0.684
+    - 0.709
+  source_ypr:
+  - - 78.0
+    - 45.0
+room_265:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.215
+    - 6.885
+    - 0.754
+  source_ypr:
+  - - 5.0
+    - 45.0
+room_266:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.39
+    - 1.858
+    - 2.081
+  source_ypr:
+  - - -173.0
+    - 45.0
+room_267:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.428
+    - 2.408
+    - 2.757
+  source_ypr:
+  - - -136.0
+    - 45.0
+room_268:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.437
+    - 0.302
+    - 1.225
+  source_ypr:
+  - - -163.0
+    - 45.0
+room_269:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.88
+    - 4.947
+    - 1.494
+  source_ypr:
+  - - -173.0
+    - 45.0
+room_27:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.954
+    - 5.971
+    - 1.648
+  source_ypr:
+  - - -95.0
+    - 45.0
+room_270:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.796
+    - 0.371
+    - 1.836
+  source_ypr:
+  - - -156.0
+    - 45.0
+room_271:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.426
+    - 5.954
+    - 1.768
+  source_ypr:
+  - - 116.0
+    - 45.0
+room_272:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.282
+    - 6.079
+    - 1.175
+  source_ypr:
+  - - -175.0
+    - 45.0
+room_273:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.727
+    - 2.418
+    - 1.283
+  source_ypr:
+  - - -171.0
+    - 45.0
+room_274:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.954
+    - 1.543
+    - 0.736
+  source_ypr:
+  - - 78.0
+    - 45.0
+room_275:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.951
+    - 8.536
+    - 0.546
+  source_ypr:
+  - - -151.0
+    - 45.0
+room_276:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.764
+    - 3.963
+    - 0.765
+  source_ypr:
+  - - -80.0
+    - 45.0
+room_277:
+  directivity: CARDIOID
+  source_pos:
+  - - 9.089
+    - 6.057
+    - 0.74
+  source_ypr:
+  - - -118.0
+    - 45.0
+room_278:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.363
+    - 6.51
+    - 2.22
+  source_ypr:
+  - - 39.0
+    - 45.0
+room_279:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.526
+    - 1.076
+    - 2.693
+  source_ypr:
+  - - 130.0
+    - 45.0
+room_28:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.125
+    - 2.294
+    - 2.229
+  source_ypr:
+  - - -110.0
+    - 45.0
+room_280:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.68
+    - 6.292
+    - 0.333
+  source_ypr:
+  - - 38.0
+    - 45.0
+room_281:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.886
+    - 4.374
+    - 0.582
+  source_ypr:
+  - - 155.0
+    - 45.0
+room_282:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.795
+    - 5.793
+    - 1.321
+  source_ypr:
+  - - 165.0
+    - 45.0
+room_283:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.535
+    - 7.735
+    - 1.751
+  source_ypr:
+  - - 16.0
+    - 45.0
+room_284:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.085
+    - 2.67
+    - 2.853
+  source_ypr:
+  - - 44.0
+    - 45.0
+room_285:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.353
+    - 2.072
+    - 1.692
+  source_ypr:
+  - - -9.0
+    - 45.0
+room_286:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.745
+    - 4.44
+    - 1.815
+  source_ypr:
+  - - 90.0
+    - 45.0
+room_287:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.002
+    - 2.517
+    - 2.744
+  source_ypr:
+  - - 49.0
+    - 45.0
+room_288:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.891
+    - 1.222
+    - 0.37
+  source_ypr:
+  - - 160.0
+    - 45.0
+room_289:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.43
+    - 5.761
+    - 2.298
+  source_ypr:
+  - - 24.0
+    - 45.0
+room_29:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.324
+    - 0.947
+    - 0.727
+  source_ypr:
+  - - -175.0
+    - 45.0
+room_290:
+  directivity: CARDIOID
+  source_pos:
+  - - 6.143
+    - 2.063
+    - 3.448
+  source_ypr:
+  - - -58.0
+    - 45.0
+room_291:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.131
+    - 0.467
+    - 2.747
+  source_ypr:
+  - - 16.0
+    - 45.0
+room_292:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.974
+    - 0.623
+    - 1.234
+  source_ypr:
+  - - -85.0
+    - 45.0
+room_293:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.384
+    - 5.713
+    - 1.994
+  source_ypr:
+  - - -95.0
+    - 45.0
+room_294:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.387
+    - 7.175
+    - 2.18
+  source_ypr:
+  - - 128.0
+    - 45.0
+room_295:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 8.032
+    - 0.393
+    - 0.673
+  source_ypr:
+  - - 105.0
+    - 45.0
+room_296:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.856
+    - 4.479
+    - 3.432
+  source_ypr:
+  - - -101.0
+    - 45.0
+room_297:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.392
+    - 3.382
+    - 1.108
+  source_ypr:
+  - - 154.0
+    - 45.0
+room_298:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.429
+    - 0.733
+    - 1.066
+  source_ypr:
+  - - 76.0
+    - 45.0
+room_299:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.583
+    - 1.183
+    - 0.534
+  source_ypr:
+  - - 119.0
+    - 45.0
+room_3:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.576
+    - 3.396
+    - 3.821
+  source_ypr:
+  - - -104.0
+    - 45.0
+room_30:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.404
+    - 0.561
+    - 1.175
+  source_ypr:
+  - - 91.0
+    - 45.0
+room_300:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.512
+    - 4.3
+    - 1.83
+  source_ypr:
+  - - 140.0
+    - 45.0
+room_301:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.724
+    - 3.291
+    - 2.411
+  source_ypr:
+  - - -107.0
+    - 45.0
+room_302:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.606
+    - 6.406
+    - 2.889
+  source_ypr:
+  - - -45.0
+    - 45.0
+room_303:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.745
+    - 0.612
+    - 0.477
+  source_ypr:
+  - - 40.0
+    - 45.0
+room_304:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.887
+    - 1.163
+    - 2.345
+  source_ypr:
+  - - 95.0
+    - 45.0
+room_305:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.633
+    - 6.45
+    - 0.431
+  source_ypr:
+  - - 60.0
+    - 45.0
+room_306:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.805
+    - 4.147
+    - 1.651
+  source_ypr:
+  - - 93.0
+    - 45.0
+room_307:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.117
+    - 3.223
+    - 2.795
+  source_ypr:
+  - - 31.0
+    - 45.0
+room_308:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.832
+    - 3.489
+    - 0.571
+  source_ypr:
+  - - 165.0
+    - 45.0
+room_309:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.866
+    - 4.496
+    - 0.963
+  source_ypr:
+  - - 167.0
+    - 45.0
+room_31:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.572
+    - 0.485
+    - 1.593
+  source_ypr:
+  - - -23.0
+    - 45.0
+room_310:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.427
+    - 1.097
+    - 2.365
+  source_ypr:
+  - - 114.0
+    - 45.0
+room_311:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.263
+    - 0.865
+    - 0.556
+  source_ypr:
+  - - -60.0
+    - 45.0
+room_312:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.511
+    - 3.033
+    - 1.365
+  source_ypr:
+  - - -37.0
+    - 45.0
+room_313:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.527
+    - 2.038
+    - 2.153
+  source_ypr:
+  - - -119.0
+    - 45.0
+room_314:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.348
+    - 0.609
+    - 0.472
+  source_ypr:
+  - - -24.0
+    - 45.0
+room_315:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.397
+    - 1.802
+    - 3.434
+  source_ypr:
+  - - 11.0
+    - 45.0
+room_316:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.022
+    - 2.135
+    - 2.036
+  source_ypr:
+  - - -140.0
+    - 45.0
+room_317:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.676
+    - 2.285
+    - 1.787
+  source_ypr:
+  - - 110.0
+    - 45.0
+room_318:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.413
+    - 0.654
+    - 3.021
+  source_ypr:
+  - - 176.0
+    - 45.0
+room_319:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.42
+    - 3.131
+    - 0.437
+  source_ypr:
+  - - -162.0
+    - 45.0
+room_32:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.415
+    - 1.158
+    - 0.612
+  source_ypr:
+  - - 174.0
+    - 45.0
+room_320:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.606
+    - 1.22
+    - 3.437
+  source_ypr:
+  - - 105.0
+    - 45.0
+room_321:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.389
+    - 0.907
+    - 3.028
+  source_ypr:
+  - - 5.0
+    - 45.0
+room_322:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.065
+    - 2.11
+    - 1.778
+  source_ypr:
+  - - -110.0
+    - 45.0
+room_323:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.66
+    - 2.516
+    - 0.324
+  source_ypr:
+  - - -66.0
+    - 45.0
+room_324:
+  directivity: CARDIOID
+  source_pos:
+  - - 8.91
+    - 5.766
+    - 1.274
+  source_ypr:
+  - - -87.0
+    - 45.0
+room_325:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.198
+    - 2.058
+    - 0.68
+  source_ypr:
+  - - -167.0
+    - 45.0
+room_326:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.451
+    - 1.813
+    - 2.565
+  source_ypr:
+  - - 80.0
+    - 45.0
+room_327:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.401
+    - 1.542
+    - 1.395
+  source_ypr:
+  - - -136.0
+    - 45.0
+room_328:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.721
+    - 3.307
+    - 1.972
+  source_ypr:
+  - - 146.0
+    - 45.0
+room_329:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.299
+    - 2.488
+    - 0.603
+  source_ypr:
+  - - 84.0
+    - 45.0
+room_33:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.065
+    - 0.599
+    - 3.873
+  source_ypr:
+  - - -47.0
+    - 45.0
+room_330:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.879
+    - 0.722
+    - 2.917
+  source_ypr:
+  - - -78.0
+    - 45.0
+room_331:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.914
+    - 3.274
+    - 1.644
+  source_ypr:
+  - - -74.0
+    - 45.0
+room_332:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.866
+    - 2.141
+    - 1.512
+  source_ypr:
+  - - 176.0
+    - 45.0
+room_333:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.356
+    - 1.957
+    - 2.378
+  source_ypr:
+  - - 139.0
+    - 45.0
+room_334:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.388
+    - 0.41
+    - 1.156
+  source_ypr:
+  - - 30.0
+    - 45.0
+room_335:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 8.883
+    - 1.739
+    - 2.577
+  source_ypr:
+  - - -65.0
+    - 45.0
+room_336:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.25
+    - 4.509
+    - 2.103
+  source_ypr:
+  - - 124.0
+    - 45.0
+room_337:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.945
+    - 4.078
+    - 1.333
+  source_ypr:
+  - - 114.0
+    - 45.0
+room_338:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.7
+    - 1.421
+    - 2.4
+  source_ypr:
+  - - 179.0
+    - 45.0
+room_339:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.459
+    - 0.526
+    - 0.729
+  source_ypr:
+  - - 72.0
+    - 45.0
+room_34:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.243
+    - 7.908
+    - 0.477
+  source_ypr:
+  - - 41.0
+    - 45.0
+room_340:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.867
+    - 2.768
+    - 1.555
+  source_ypr:
+  - - 148.0
+    - 45.0
+room_341:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.354
+    - 0.954
+    - 2.035
+  source_ypr:
+  - - 98.0
+    - 45.0
+room_342:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.527
+    - 2.589
+    - 3.073
+  source_ypr:
+  - - -123.0
+    - 45.0
+room_343:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.277
+    - 6.804
+    - 1.63
+  source_ypr:
+  - - -110.0
+    - 45.0
+room_344:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.01
+    - 1.622
+    - 2.275
+  source_ypr:
+  - - -38.0
+    - 45.0
+room_345:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.502
+    - 4.852
+    - 1.213
+  source_ypr:
+  - - -87.0
+    - 45.0
+room_346:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.301
+    - 2.137
+    - 1.619
+  source_ypr:
+  - - -84.0
+    - 45.0
+room_347:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.018
+    - 2.343
+    - 2.218
+  source_ypr:
+  - - 109.0
+    - 45.0
+room_348:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.729
+    - 2.0
+    - 1.948
+  source_ypr:
+  - - 66.0
+    - 45.0
+room_349:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.691
+    - 4.51
+    - 0.409
+  source_ypr:
+  - - 58.0
+    - 45.0
+room_35:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.802
+    - 1.966
+    - 2.267
+  source_ypr:
+  - - 70.0
+    - 45.0
+room_350:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.66
+    - 4.185
+    - 2.845
+  source_ypr:
+  - - -37.0
+    - 45.0
+room_351:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.825
+    - 5.718
+    - 1.555
+  source_ypr:
+  - - 73.0
+    - 45.0
+room_352:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.662
+    - 3.961
+    - 2.077
+  source_ypr:
+  - - 29.0
+    - 45.0
+room_353:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 7.676
+    - 4.155
+    - 1.275
+  source_ypr:
+  - - 25.0
+    - 45.0
+room_354:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.555
+    - 1.381
+    - 2.94
+  source_ypr:
+  - - -54.0
+    - 45.0
+room_355:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.396
+    - 1.231
+    - 0.821
+  source_ypr:
+  - - -112.0
+    - 45.0
+room_356:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.455
+    - 4.903
+    - 0.593
+  source_ypr:
+  - - 24.0
+    - 45.0
+room_357:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 7.242
+    - 3.643
+    - 2.257
+  source_ypr:
+  - - 129.0
+    - 45.0
+room_358:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.192
+    - 1.544
+    - 1.661
+  source_ypr:
+  - - -126.0
+    - 45.0
+room_359:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.056
+    - 3.064
+    - 1.115
+  source_ypr:
+  - - -130.0
+    - 45.0
+room_36:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.679
+    - 1.051
+    - 1.625
+  source_ypr:
+  - - -122.0
+    - 45.0
+room_360:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.021
+    - 2.294
+    - 0.487
+  source_ypr:
+  - - -20.0
+    - 45.0
+room_361:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.666
+    - 1.381
+    - 3.515
+  source_ypr:
+  - - 140.0
+    - 45.0
+room_362:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.492
+    - 0.776
+    - 0.987
+  source_ypr:
+  - - 177.0
+    - 45.0
+room_363:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.937
+    - 6.101
+    - 0.321
+  source_ypr:
+  - - 124.0
+    - 45.0
+room_364:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.321
+    - 7.136
+    - 1.457
+  source_ypr:
+  - - 167.0
+    - 45.0
+room_365:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.32
+    - 0.442
+    - 2.468
+  source_ypr:
+  - - 32.0
+    - 45.0
+room_366:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.069
+    - 1.534
+    - 1.147
+  source_ypr:
+  - - -35.0
+    - 45.0
+room_367:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.025
+    - 4.081
+    - 2.398
+  source_ypr:
+  - - 126.0
+    - 45.0
+room_368:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.397
+    - 1.226
+    - 2.593
+  source_ypr:
+  - - 27.0
+    - 45.0
+room_369:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.214
+    - 1.511
+    - 2.202
+  source_ypr:
+  - - -142.0
+    - 45.0
+room_37:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.809
+    - 4.955
+    - 1.409
+  source_ypr:
+  - - 149.0
+    - 45.0
+room_370:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.608
+    - 0.865
+    - 1.4
+  source_ypr:
+  - - 124.0
+    - 45.0
+room_371:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.449
+    - 3.902
+    - 2.788
+  source_ypr:
+  - - 158.0
+    - 45.0
+room_372:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.756
+    - 4.687
+    - 1.047
+  source_ypr:
+  - - -59.0
+    - 45.0
+room_373:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.446
+    - 1.033
+    - 1.07
+  source_ypr:
+  - - 32.0
+    - 45.0
+room_374:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.645
+    - 2.285
+    - 0.567
+  source_ypr:
+  - - -129.0
+    - 45.0
+room_375:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.793
+    - 1.231
+    - 1.678
+  source_ypr:
+  - - -62.0
+    - 45.0
+room_376:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.652
+    - 5.799
+    - 2.234
+  source_ypr:
+  - - -93.0
+    - 45.0
+room_377:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.625
+    - 3.175
+    - 3.153
+  source_ypr:
+  - - -148.0
+    - 45.0
+room_378:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.034
+    - 4.287
+    - 0.302
+  source_ypr:
+  - - 32.0
+    - 45.0
+room_379:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 5.365
+    - 1.085
+    - 0.934
+  source_ypr:
+  - - 69.0
+    - 45.0
+room_38:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.983
+    - 2.586
+    - 2.19
+  source_ypr:
+  - - 44.0
+    - 45.0
+room_380:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.905
+    - 0.325
+    - 2.857
+  source_ypr:
+  - - 68.0
+    - 45.0
+room_381:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.194
+    - 1.068
+    - 3.268
+  source_ypr:
+  - - 96.0
+    - 45.0
+room_382:
+  directivity: CARDIOID
+  source_pos:
+  - - 3.857
+    - 6.297
+    - 2.125
+  source_ypr:
+  - - 45.0
+    - 45.0
+room_383:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.218
+    - 3.666
+    - 2.439
+  source_ypr:
+  - - -105.0
+    - 45.0
+room_384:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.825
+    - 0.791
+    - 0.878
+  source_ypr:
+  - - 180.0
+    - 45.0
+room_385:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.488
+    - 6.017
+    - 0.754
+  source_ypr:
+  - - 137.0
+    - 45.0
+room_386:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 7.228
+    - 4.522
+    - 2.227
+  source_ypr:
+  - - -173.0
+    - 45.0
+room_387:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.408
+    - 3.143
+    - 2.571
+  source_ypr:
+  - - 148.0
+    - 45.0
+room_388:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.97
+    - 3.623
+    - 2.859
+  source_ypr:
+  - - -88.0
+    - 45.0
+room_389:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.742
+    - 2.268
+    - 1.209
+  source_ypr:
+  - - 7.0
+    - 45.0
+room_39:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.566
+    - 1.277
+    - 2.264
+  source_ypr:
+  - - 120.0
+    - 45.0
+room_390:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.637
+    - 2.922
+    - 1.055
+  source_ypr:
+  - - -107.0
+    - 45.0
+room_391:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.811
+    - 1.022
+    - 1.338
+  source_ypr:
+  - - 82.0
+    - 45.0
+room_392:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.037
+    - 0.864
+    - 3.358
+  source_ypr:
+  - - 65.0
+    - 45.0
+room_393:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.314
+    - 2.837
+    - 0.73
+  source_ypr:
+  - - 21.0
+    - 45.0
+room_394:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.956
+    - 4.179
+    - 0.399
+  source_ypr:
+  - - 108.0
+    - 45.0
+room_395:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.662
+    - 3.018
+    - 2.089
+  source_ypr:
+  - - -168.0
+    - 45.0
+room_396:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.096
+    - 4.301
+    - 1.52
+  source_ypr:
+  - - -143.0
+    - 45.0
+room_397:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.235
+    - 8.425
+    - 3.422
+  source_ypr:
+  - - -9.0
+    - 45.0
+room_398:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.523
+    - 3.656
+    - 1.458
+  source_ypr:
+  - - -73.0
+    - 45.0
+room_399:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.191
+    - 2.39
+    - 0.448
+  source_ypr:
+  - - -69.0
+    - 45.0
+room_4:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.915
+    - 2.12
+    - 1.619
+  source_ypr:
+  - - -65.0
+    - 45.0
+room_40:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.239
+    - 0.424
+    - 1.429
+  source_ypr:
+  - - -161.0
+    - 45.0
+room_41:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.885
+    - 1.686
+    - 0.731
+  source_ypr:
+  - - 95.0
+    - 45.0
+room_42:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.289
+    - 3.144
+    - 2.425
+  source_ypr:
+  - - -143.0
+    - 45.0
+room_43:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.453
+    - 0.31
+    - 1.557
+  source_ypr:
+  - - 136.0
+    - 45.0
+room_44:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 7.619
+    - 0.498
+    - 1.451
+  source_ypr:
+  - - -15.0
+    - 45.0
+room_45:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.997
+    - 6.243
+    - 1.517
+  source_ypr:
+  - - 117.0
+    - 45.0
+room_46:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.699
+    - 2.446
+    - 1.517
+  source_ypr:
+  - - -46.0
+    - 45.0
+room_47:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.956
+    - 2.551
+    - 0.706
+  source_ypr:
+  - - 54.0
+    - 45.0
+room_48:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.804
+    - 5.21
+    - 1.451
+  source_ypr:
+  - - -49.0
+    - 45.0
+room_49:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.302
+    - 1.093
+    - 1.225
+  source_ypr:
+  - - 66.0
+    - 45.0
+room_5:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.338
+    - 4.351
+    - 1.511
+  source_ypr:
+  - - 78.0
+    - 45.0
+room_50:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.065
+    - 1.48
+    - 2.261
+  source_ypr:
+  - - -45.0
+    - 45.0
+room_51:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.573
+    - 1.045
+    - 1.798
+  source_ypr:
+  - - 112.0
+    - 45.0
+room_52:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 8.458
+    - 0.897
+    - 1.414
+  source_ypr:
+  - - 76.0
+    - 45.0
+room_53:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.807
+    - 2.657
+    - 1.237
+  source_ypr:
+  - - -77.0
+    - 45.0
+room_54:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.705
+    - 1.159
+    - 1.664
+  source_ypr:
+  - - 36.0
+    - 45.0
+room_55:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.078
+    - 0.626
+    - 0.395
+  source_ypr:
+  - - -3.0
+    - 45.0
+room_56:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.491
+    - 0.979
+    - 3.464
+  source_ypr:
+  - - -87.0
+    - 45.0
+room_57:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.236
+    - 5.938
+    - 1.757
+  source_ypr:
+  - - -115.0
+    - 45.0
+room_58:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.866
+    - 1.205
+    - 2.831
+  source_ypr:
+  - - 71.0
+    - 45.0
+room_59:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 7.635
+    - 2.465
+    - 0.466
+  source_ypr:
+  - - -160.0
+    - 45.0
+room_6:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.097
+    - 2.301
+    - 1.545
+  source_ypr:
+  - - -77.0
+    - 45.0
+room_60:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.422
+    - 3.971
+    - 0.818
+  source_ypr:
+  - - -103.0
+    - 45.0
+room_61:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 5.139
+    - 1.726
+    - 1.386
+  source_ypr:
+  - - 100.0
+    - 45.0
+room_62:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.93
+    - 3.789
+    - 2.434
+  source_ypr:
+  - - 120.0
+    - 45.0
+room_63:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.667
+    - 0.842
+    - 0.42
+  source_ypr:
+  - - -50.0
+    - 45.0
+room_64:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.573
+    - 0.64
+    - 2.133
+  source_ypr:
+  - - -23.0
+    - 45.0
+room_65:
+  directivity: CARDIOID
+  source_pos:
+  - - 5.914
+    - 2.417
+    - 1.729
+  source_ypr:
+  - - 130.0
+    - 45.0
+room_66:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.594
+    - 3.443
+    - 2.692
+  source_ypr:
+  - - 104.0
+    - 45.0
+room_67:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.63
+    - 4.751
+    - 0.757
+  source_ypr:
+  - - 10.0
+    - 45.0
+room_68:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.609
+    - 1.462
+    - 1.53
+  source_ypr:
+  - - -4.0
+    - 45.0
+room_69:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.312
+    - 4.229
+    - 2.105
+  source_ypr:
+  - - -84.0
+    - 45.0
+room_7:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 8.48
+    - 2.967
+    - 2.58
+  source_ypr:
+  - - -75.0
+    - 45.0
+room_70:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.793
+    - 5.666
+    - 2.941
+  source_ypr:
+  - - -20.0
+    - 45.0
+room_71:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 3.799
+    - 1.227
+    - 2.405
+  source_ypr:
+  - - 42.0
+    - 45.0
+room_72:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 9.244
+    - 1.676
+    - 2.649
+  source_ypr:
+  - - 60.0
+    - 45.0
+room_73:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.287
+    - 3.224
+    - 2.228
+  source_ypr:
+  - - -69.0
+    - 45.0
+room_74:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.544
+    - 6.534
+    - 1.967
+  source_ypr:
+  - - 110.0
+    - 45.0
+room_75:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.617
+    - 0.959
+    - 0.718
+  source_ypr:
+  - - 132.0
+    - 45.0
+room_76:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 1.411
+    - 4.316
+    - 1.792
+  source_ypr:
+  - - -64.0
+    - 45.0
+room_77:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 0.496
+    - 1.424
+    - 1.229
+  source_ypr:
+  - - 110.0
+    - 45.0
+room_78:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.639
+    - 8.453
+    - 0.775
+  source_ypr:
+  - - 173.0
+    - 45.0
+room_79:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 2.837
+    - 0.681
+    - 2.041
+  source_ypr:
+  - - -95.0
+    - 45.0
+room_8:
+  directivity: CARDIOID
+  source_pos:
+  - - 2.043
+    - 4.119
+    - 2.596
+  source_ypr:
+  - - 7.0
+    - 45.0
+room_80:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 6.903
+    - 3.924
+    - 1.669
+  source_ypr:
+  - - 104.0
+    - 45.0
+room_81:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.812
+    - 1.401
+    - 3.325
+  source_ypr:
+  - - -168.0
+    - 45.0
+room_82:
+  directivity: CARDIOID
+  source_pos:
+  - - 4.206
+    - 0.908
+    - 2.05
+  source_ypr:
+  - - 91.0
+    - 45.0
+room_83:
+  directivity: CARDIOID
+  source_pos:
+  - - 8.546
+    - 4.708
+    - 1.491
+  source_ypr:
+  - - -162.0
+    - 45.0
+room_84:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 0.9
+    - 1.735
+    - 0.645
+  source_ypr:
+  - - 21.0
+    - 45.0
+room_85:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.915
+    - 3.175
+    - 1.537
+  source_ypr:
+  - - -52.0
+    - 45.0
+room_86:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.34
+    - 0.399
+    - 0.318
+  source_ypr:
+  - - 122.0
+    - 45.0
+room_87:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.416
+    - 1.943
+    - 1.719
+  source_ypr:
+  - - -141.0
+    - 45.0
+room_88:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.322
+    - 0.421
+    - 1.222
+  source_ypr:
+  - - 71.0
+    - 45.0
+room_89:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.76
+    - 3.118
+    - 0.768
+  source_ypr:
+  - - -61.0
+    - 45.0
+room_9:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.644
+    - 0.634
+    - 0.707
+  source_ypr:
+  - - -171.0
+    - 45.0
+room_90:
+  directivity: CARDIOID
+  source_pos:
+  - - 7.687
+    - 1.345
+    - 1.502
+  source_ypr:
+  - - 138.0
+    - 45.0
+room_91:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.093
+    - 5.39
+    - 1.389
+  source_ypr:
+  - - 71.0
+    - 45.0
+room_92:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 2.011
+    - 0.813
+    - 2.313
+  source_ypr:
+  - - 94.0
+    - 45.0
+room_93:
+  directivity: CARDIOID
+  source_pos:
+  - - 0.898
+    - 3.496
+    - 2.323
+  source_ypr:
+  - - -2.0
+    - 45.0
+room_94:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 1.72
+    - 1.899
+    - 1.24
+  source_ypr:
+  - - -44.0
+    - 45.0
+room_95:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.141
+    - 0.81
+    - 1.49
+  source_ypr:
+  - - 68.0
+    - 45.0
+room_96:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 3.811
+    - 6.643
+    - 2.523
+  source_ypr:
+  - - -122.0
+    - 45.0
+room_97:
+  directivity: HYPERCARDIOID
+  source_pos:
+  - - 4.598
+    - 1.582
+    - 1.517
+  source_ypr:
+  - - -3.0
+    - 45.0
+room_98:
+  directivity: CARDIOID
+  source_pos:
+  - - 1.383
+    - 0.486
+    - 1.848
+  source_ypr:
+  - - -113.0
+    - 45.0
+room_99:
+  directivity: SUBCARDIOID
+  source_pos:
+  - - 4.831
+    - 3.478
+    - 1.136
+  source_ypr:
+  - - -6.0
+    - 45.0

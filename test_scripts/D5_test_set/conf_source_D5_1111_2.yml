@@ -1,0 +1,3600 @@
+room_0:
+  directivity: 1
+  source_pos:
+  - - 2.814
+    - 4.989
+    - 0.943
+  source_ypr:
+  - - -104.0
+    - 0.0
+room_1:
+  directivity: 1
+  source_pos:
+  - - 5.671
+    - 0.466
+    - 2.454
+  source_ypr:
+  - - -21.0
+    - 0.0
+room_10:
+  directivity: 3
+  source_pos:
+  - - 4.757
+    - 0.702
+    - 0.465
+  source_ypr:
+  - - -78.0
+    - 0.0
+room_100:
+  directivity: 3
+  source_pos:
+  - - 2.624
+    - 4.564
+    - 2.745
+  source_ypr:
+  - - -121.0
+    - 0.0
+room_101:
+  directivity: 2
+  source_pos:
+  - - 6.619
+    - 2.834
+    - 1.118
+  source_ypr:
+  - - -168.0
+    - 0.0
+room_102:
+  directivity: 3
+  source_pos:
+  - - 3.496
+    - 5.145
+    - 3.548
+  source_ypr:
+  - - 44.0
+    - 0.0
+room_103:
+  directivity: 1
+  source_pos:
+  - - 1.885
+    - 7.758
+    - 0.499
+  source_ypr:
+  - - 103.0
+    - 0.0
+room_104:
+  directivity: 2
+  source_pos:
+  - - 3.207
+    - 5.349
+    - 0.758
+  source_ypr:
+  - - 161.0
+    - 0.0
+room_105:
+  directivity: 2
+  source_pos:
+  - - 0.796
+    - 1.26
+    - 3.648
+  source_ypr:
+  - - -101.0
+    - 0.0
+room_106:
+  directivity: 3
+  source_pos:
+  - - 2.014
+    - 0.887
+    - 1.422
+  source_ypr:
+  - - 3.0
+    - 0.0
+room_107:
+  directivity: 1
+  source_pos:
+  - - 3.622
+    - 0.727
+    - 3.218
+  source_ypr:
+  - - -31.0
+    - 0.0
+room_108:
+  directivity: 1
+  source_pos:
+  - - 4.622
+    - 3.706
+    - 1.378
+  source_ypr:
+  - - 16.0
+    - 0.0
+room_109:
+  directivity: 3
+  source_pos:
+  - - 2.622
+    - 5.909
+    - 1.0
+  source_ypr:
+  - - 180.0
+    - 0.0
+room_11:
+  directivity: 3
+  source_pos:
+  - - 5.138
+    - 2.105
+    - 1.554
+  source_ypr:
+  - - 21.0
+    - 0.0
+room_110:
+  directivity: 2
+  source_pos:
+  - - 8.815
+    - 0.969
+    - 0.754
+  source_ypr:
+  - - 18.0
+    - 0.0
+room_111:
+  directivity: 1
+  source_pos:
+  - - 0.679
+    - 2.169
+    - 0.996
+  source_ypr:
+  - - 112.0
+    - 0.0
+room_112:
+  directivity: 2
+  source_pos:
+  - - 2.738
+    - 4.739
+    - 1.408
+  source_ypr:
+  - - 115.0
+    - 0.0
+room_113:
+  directivity: 2
+  source_pos:
+  - - 1.239
+    - 0.5
+    - 3.33
+  source_ypr:
+  - - -28.0
+    - 0.0
+room_114:
+  directivity: 1
+  source_pos:
+  - - 2.392
+    - 3.577
+    - 0.362
+  source_ypr:
+  - - -34.0
+    - 0.0
+room_115:
+  directivity: 1
+  source_pos:
+  - - 3.5
+    - 4.06
+    - 0.496
+  source_ypr:
+  - - 142.0
+    - 0.0
+room_116:
+  directivity: 3
+  source_pos:
+  - - 5.445
+    - 3.056
+    - 0.385
+  source_ypr:
+  - - 92.0
+    - 0.0
+room_117:
+  directivity: 1
+  source_pos:
+  - - 7.298
+    - 2.977
+    - 2.775
+  source_ypr:
+  - - -76.0
+    - 0.0
+room_118:
+  directivity: 2
+  source_pos:
+  - - 1.782
+    - 5.915
+    - 2.155
+  source_ypr:
+  - - 10.0
+    - 0.0
+room_119:
+  directivity: 1
+  source_pos:
+  - - 2.05
+    - 0.49
+    - 0.316
+  source_ypr:
+  - - 69.0
+    - 0.0
+room_12:
+  directivity: 3
+  source_pos:
+  - - 6.53
+    - 1.391
+    - 1.23
+  source_ypr:
+  - - 180.0
+    - 0.0
+room_120:
+  directivity: 2
+  source_pos:
+  - - 4.667
+    - 1.848
+    - 1.534
+  source_ypr:
+  - - -29.0
+    - 0.0
+room_121:
+  directivity: 2
+  source_pos:
+  - - 0.872
+    - 0.671
+    - 1.097
+  source_ypr:
+  - - 96.0
+    - 0.0
+room_122:
+  directivity: 2
+  source_pos:
+  - - 3.304
+    - 3.81
+    - 2.017
+  source_ypr:
+  - - 1.0
+    - 0.0
+room_123:
+  directivity: 2
+  source_pos:
+  - - 7.385
+    - 0.491
+    - 1.483
+  source_ypr:
+  - - -7.0
+    - 0.0
+room_124:
+  directivity: 3
+  source_pos:
+  - - 1.917
+    - 6.853
+    - 2.358
+  source_ypr:
+  - - -126.0
+    - 0.0
+room_125:
+  directivity: 3
+  source_pos:
+  - - 0.583
+    - 1.571
+    - 1.652
+  source_ypr:
+  - - 110.0
+    - 0.0
+room_126:
+  directivity: 3
+  source_pos:
+  - - 2.547
+    - 7.492
+    - 2.576
+  source_ypr:
+  - - -83.0
+    - 0.0
+room_127:
+  directivity: 2
+  source_pos:
+  - - 1.363
+    - 3.547
+    - 2.801
+  source_ypr:
+  - - -150.0
+    - 0.0
+room_128:
+  directivity: 3
+  source_pos:
+  - - 1.497
+    - 1.852
+    - 2.494
+  source_ypr:
+  - - 162.0
+    - 0.0
+room_129:
+  directivity: 3
+  source_pos:
+  - - 2.883
+    - 6.265
+    - 1.125
+  source_ypr:
+  - - -62.0
+    - 0.0
+room_13:
+  directivity: 1
+  source_pos:
+  - - 2.893
+    - 2.992
+    - 2.64
+  source_ypr:
+  - - 62.0
+    - 0.0
+room_130:
+  directivity: 1
+  source_pos:
+  - - 4.544
+    - 1.04
+    - 1.818
+  source_ypr:
+  - - -66.0
+    - 0.0
+room_131:
+  directivity: 3
+  source_pos:
+  - - 0.501
+    - 0.341
+    - 0.963
+  source_ypr:
+  - - 115.0
+    - 0.0
+room_132:
+  directivity: 3
+  source_pos:
+  - - 3.289
+    - 1.905
+    - 0.43
+  source_ypr:
+  - - 138.0
+    - 0.0
+room_133:
+  directivity: 1
+  source_pos:
+  - - 3.325
+    - 3.176
+    - 3.566
+  source_ypr:
+  - - 85.0
+    - 0.0
+room_134:
+  directivity: 2
+  source_pos:
+  - - 8.655
+    - 1.698
+    - 2.074
+  source_ypr:
+  - - 118.0
+    - 0.0
+room_135:
+  directivity: 1
+  source_pos:
+  - - 2.332
+    - 1.311
+    - 0.368
+  source_ypr:
+  - - 83.0
+    - 0.0
+room_136:
+  directivity: 2
+  source_pos:
+  - - 3.205
+    - 1.108
+    - 1.894
+  source_ypr:
+  - - 56.0
+    - 0.0
+room_137:
+  directivity: 1
+  source_pos:
+  - - 2.683
+    - 1.422
+    - 3.064
+  source_ypr:
+  - - -9.0
+    - 0.0
+room_138:
+  directivity: 1
+  source_pos:
+  - - 2.632
+    - 4.032
+    - 1.078
+  source_ypr:
+  - - 41.0
+    - 0.0
+room_139:
+  directivity: 1
+  source_pos:
+  - - 2.677
+    - 3.142
+    - 1.657
+  source_ypr:
+  - - 160.0
+    - 0.0
+room_14:
+  directivity: 3
+  source_pos:
+  - - 2.735
+    - 5.556
+    - 1.332
+  source_ypr:
+  - - -120.0
+    - 0.0
+room_140:
+  directivity: 2
+  source_pos:
+  - - 0.683
+    - 1.278
+    - 0.477
+  source_ypr:
+  - - 60.0
+    - 0.0
+room_141:
+  directivity: 3
+  source_pos:
+  - - 4.122
+    - 3.295
+    - 0.315
+  source_ypr:
+  - - 110.0
+    - 0.0
+room_142:
+  directivity: 1
+  source_pos:
+  - - 0.984
+    - 3.61
+    - 0.342
+  source_ypr:
+  - - 175.0
+    - 0.0
+room_143:
+  directivity: 3
+  source_pos:
+  - - 7.115
+    - 4.542
+    - 0.569
+  source_ypr:
+  - - 22.0
+    - 0.0
+room_144:
+  directivity: 2
+  source_pos:
+  - - 1.88
+    - 5.167
+    - 1.172
+  source_ypr:
+  - - -3.0
+    - 0.0
+room_145:
+  directivity: 2
+  source_pos:
+  - - 0.588
+    - 4.773
+    - 2.68
+  source_ypr:
+  - - 170.0
+    - 0.0
+room_146:
+  directivity: 3
+  source_pos:
+  - - 2.882
+    - 8.601
+    - 0.941
+  source_ypr:
+  - - 160.0
+    - 0.0
+room_147:
+  directivity: 2
+  source_pos:
+  - - 0.378
+    - 2.796
+    - 2.087
+  source_ypr:
+  - - 51.0
+    - 0.0
+room_148:
+  directivity: 2
+  source_pos:
+  - - 7.627
+    - 1.714
+    - 2.936
+  source_ypr:
+  - - -148.0
+    - 0.0
+room_149:
+  directivity: 3
+  source_pos:
+  - - 1.239
+    - 1.063
+    - 1.559
+  source_ypr:
+  - - 179.0
+    - 0.0
+room_15:
+  directivity: 1
+  source_pos:
+  - - 4.558
+    - 0.768
+    - 0.79
+  source_ypr:
+  - - -58.0
+    - 0.0
+room_150:
+  directivity: 2
+  source_pos:
+  - - 6.045
+    - 1.302
+    - 0.638
+  source_ypr:
+  - - -62.0
+    - 0.0
+room_151:
+  directivity: 2
+  source_pos:
+  - - 2.266
+    - 3.395
+    - 0.954
+  source_ypr:
+  - - -12.0
+    - 0.0
+room_152:
+  directivity: 3
+  source_pos:
+  - - 1.236
+    - 2.915
+    - 1.762
+  source_ypr:
+  - - 5.0
+    - 0.0
+room_153:
+  directivity: 2
+  source_pos:
+  - - 3.542
+    - 3.707
+    - 2.452
+  source_ypr:
+  - - 21.0
+    - 0.0
+room_154:
+  directivity: 3
+  source_pos:
+  - - 3.515
+    - 0.983
+    - 0.923
+  source_ypr:
+  - - -98.0
+    - 0.0
+room_155:
+  directivity: 2
+  source_pos:
+  - - 7.328
+    - 2.397
+    - 0.738
+  source_ypr:
+  - - -23.0
+    - 0.0
+room_156:
+  directivity: 2
+  source_pos:
+  - - 1.147
+    - 1.227
+    - 1.632
+  source_ypr:
+  - - 66.0
+    - 0.0
+room_157:
+  directivity: 2
+  source_pos:
+  - - 2.181
+    - 0.84
+    - 0.895
+  source_ypr:
+  - - -135.0
+    - 0.0
+room_158:
+  directivity: 3
+  source_pos:
+  - - 1.718
+    - 0.897
+    - 2.089
+  source_ypr:
+  - - 176.0
+    - 0.0
+room_159:
+  directivity: 2
+  source_pos:
+  - - 4.116
+    - 0.676
+    - 0.609
+  source_ypr:
+  - - 21.0
+    - 0.0
+room_16:
+  directivity: 1
+  source_pos:
+  - - 1.709
+    - 1.548
+    - 2.394
+  source_ypr:
+  - - -119.0
+    - 0.0
+room_160:
+  directivity: 3
+  source_pos:
+  - - 2.851
+    - 3.701
+    - 2.11
+  source_ypr:
+  - - -20.0
+    - 0.0
+room_161:
+  directivity: 1
+  source_pos:
+  - - 1.651
+    - 2.536
+    - 1.885
+  source_ypr:
+  - - 37.0
+    - 0.0
+room_162:
+  directivity: 1
+  source_pos:
+  - - 2.701
+    - 2.979
+    - 0.842
+  source_ypr:
+  - - -117.0
+    - 0.0
+room_163:
+  directivity: 1
+  source_pos:
+  - - 1.027
+    - 1.602
+    - 2.006
+  source_ypr:
+  - - 54.0
+    - 0.0
+room_164:
+  directivity: 1
+  source_pos:
+  - - 3.381
+    - 7.498
+    - 1.891
+  source_ypr:
+  - - -24.0
+    - 0.0
+room_165:
+  directivity: 1
+  source_pos:
+  - - 1.101
+    - 2.203
+    - 1.455
+  source_ypr:
+  - - 4.0
+    - 0.0
+room_166:
+  directivity: 1
+  source_pos:
+  - - 6.071
+    - 2.325
+    - 0.369
+  source_ypr:
+  - - -38.0
+    - 0.0
+room_167:
+  directivity: 2
+  source_pos:
+  - - 4.58
+    - 1.164
+    - 1.413
+  source_ypr:
+  - - -123.0
+    - 0.0
+room_168:
+  directivity: 1
+  source_pos:
+  - - 1.302
+    - 0.67
+    - 3.501
+  source_ypr:
+  - - 104.0
+    - 0.0
+room_169:
+  directivity: 3
+  source_pos:
+  - - 0.858
+    - 2.492
+    - 1.496
+  source_ypr:
+  - - 160.0
+    - 0.0
+room_17:
+  directivity: 1
+  source_pos:
+  - - 6.216
+    - 6.312
+    - 0.681
+  source_ypr:
+  - - 164.0
+    - 0.0
+room_170:
+  directivity: 1
+  source_pos:
+  - - 1.732
+    - 3.06
+    - 3.291
+  source_ypr:
+  - - -113.0
+    - 0.0
+room_171:
+  directivity: 2
+  source_pos:
+  - - 4.371
+    - 2.838
+    - 3.039
+  source_ypr:
+  - - 69.0
+    - 0.0
+room_172:
+  directivity: 3
+  source_pos:
+  - - 4.559
+    - 1.73
+    - 1.98
+  source_ypr:
+  - - 57.0
+    - 0.0
+room_173:
+  directivity: 3
+  source_pos:
+  - - 7.033
+    - 5.193
+    - 0.738
+  source_ypr:
+  - - 178.0
+    - 0.0
+room_174:
+  directivity: 3
+  source_pos:
+  - - 3.612
+    - 1.76
+    - 2.797
+  source_ypr:
+  - - 139.0
+    - 0.0
+room_175:
+  directivity: 1
+  source_pos:
+  - - 2.791
+    - 1.621
+    - 0.628
+  source_ypr:
+  - - -93.0
+    - 0.0
+room_176:
+  directivity: 3
+  source_pos:
+  - - 1.669
+    - 1.901
+    - 1.625
+  source_ypr:
+  - - 170.0
+    - 0.0
+room_177:
+  directivity: 1
+  source_pos:
+  - - 3.777
+    - 5.462
+    - 1.53
+  source_ypr:
+  - - -125.0
+    - 0.0
+room_178:
+  directivity: 2
+  source_pos:
+  - - 1.028
+    - 0.549
+    - 1.744
+  source_ypr:
+  - - -41.0
+    - 0.0
+room_179:
+  directivity: 3
+  source_pos:
+  - - 0.657
+    - 6.586
+    - 1.116
+  source_ypr:
+  - - 167.0
+    - 0.0
+room_18:
+  directivity: 1
+  source_pos:
+  - - 0.331
+    - 1.401
+    - 1.6
+  source_ypr:
+  - - 49.0
+    - 0.0
+room_180:
+  directivity: 1
+  source_pos:
+  - - 2.951
+    - 2.735
+    - 1.671
+  source_ypr:
+  - - -84.0
+    - 0.0
+room_181:
+  directivity: 2
+  source_pos:
+  - - 1.877
+    - 1.302
+    - 2.184
+  source_ypr:
+  - - -141.0
+    - 0.0
+room_182:
+  directivity: 2
+  source_pos:
+  - - 2.45
+    - 2.941
+    - 0.478
+  source_ypr:
+  - - 82.0
+    - 0.0
+room_183:
+  directivity: 2
+  source_pos:
+  - - 1.597
+    - 2.048
+    - 2.408
+  source_ypr:
+  - - -139.0
+    - 0.0
+room_184:
+  directivity: 2
+  source_pos:
+  - - 4.203
+    - 0.995
+    - 2.91
+  source_ypr:
+  - - 43.0
+    - 0.0
+room_185:
+  directivity: 2
+  source_pos:
+  - - 1.789
+    - 0.312
+    - 3.003
+  source_ypr:
+  - - 173.0
+    - 0.0
+room_186:
+  directivity: 1
+  source_pos:
+  - - 7.491
+    - 5.399
+    - 2.795
+  source_ypr:
+  - - 89.0
+    - 0.0
+room_187:
+  directivity: 1
+  source_pos:
+  - - 0.417
+    - 3.994
+    - 0.682
+  source_ypr:
+  - - -160.0
+    - 0.0
+room_188:
+  directivity: 2
+  source_pos:
+  - - 2.857
+    - 0.87
+    - 0.552
+  source_ypr:
+  - - -38.0
+    - 0.0
+room_189:
+  directivity: 2
+  source_pos:
+  - - 1.339
+    - 0.431
+    - 1.293
+  source_ypr:
+  - - -30.0
+    - 0.0
+room_19:
+  directivity: 3
+  source_pos:
+  - - 1.616
+    - 5.872
+    - 2.015
+  source_ypr:
+  - - -31.0
+    - 0.0
+room_190:
+  directivity: 3
+  source_pos:
+  - - 4.437
+    - 5.505
+    - 2.699
+  source_ypr:
+  - - 72.0
+    - 0.0
+room_191:
+  directivity: 2
+  source_pos:
+  - - 1.424
+    - 1.172
+    - 0.631
+  source_ypr:
+  - - 162.0
+    - 0.0
+room_192:
+  directivity: 2
+  source_pos:
+  - - 5.014
+    - 5.028
+    - 1.882
+  source_ypr:
+  - - 51.0
+    - 0.0
+room_193:
+  directivity: 2
+  source_pos:
+  - - 1.988
+    - 1.204
+    - 1.267
+  source_ypr:
+  - - 21.0
+    - 0.0
+room_194:
+  directivity: 3
+  source_pos:
+  - - 2.015
+    - 2.604
+    - 1.722
+  source_ypr:
+  - - -55.0
+    - 0.0
+room_195:
+  directivity: 3
+  source_pos:
+  - - 3.649
+    - 0.34
+    - 0.803
+  source_ypr:
+  - - 14.0
+    - 0.0
+room_196:
+  directivity: 1
+  source_pos:
+  - - 3.259
+    - 1.114
+    - 0.413
+  source_ypr:
+  - - 78.0
+    - 0.0
+room_197:
+  directivity: 1
+  source_pos:
+  - - 1.467
+    - 1.645
+    - 2.685
+  source_ypr:
+  - - 25.0
+    - 0.0
+room_198:
+  directivity: 1
+  source_pos:
+  - - 3.243
+    - 1.75
+    - 0.76
+  source_ypr:
+  - - -32.0
+    - 0.0
+room_199:
+  directivity: 3
+  source_pos:
+  - - 4.724
+    - 5.449
+    - 0.536
+  source_ypr:
+  - - -1.0
+    - 0.0
+room_2:
+  directivity: 3
+  source_pos:
+  - - 0.409
+    - 1.192
+    - 1.888
+  source_ypr:
+  - - 15.0
+    - 0.0
+room_20:
+  directivity: 3
+  source_pos:
+  - - 4.312
+    - 2.205
+    - 3.061
+  source_ypr:
+  - - -180.0
+    - 0.0
+room_200:
+  directivity: 1
+  source_pos:
+  - - 0.969
+    - 6.287
+    - 0.458
+  source_ypr:
+  - - 156.0
+    - 0.0
+room_201:
+  directivity: 3
+  source_pos:
+  - - 2.59
+    - 4.412
+    - 2.692
+  source_ypr:
+  - - 122.0
+    - 0.0
+room_202:
+  directivity: 1
+  source_pos:
+  - - 6.926
+    - 2.765
+    - 1.058
+  source_ypr:
+  - - 40.0
+    - 0.0
+room_203:
+  directivity: 1
+  source_pos:
+  - - 3.194
+    - 1.98
+    - 1.376
+  source_ypr:
+  - - 22.0
+    - 0.0
+room_204:
+  directivity: 2
+  source_pos:
+  - - 3.148
+    - 3.064
+    - 1.123
+  source_ypr:
+  - - 148.0
+    - 0.0
+room_205:
+  directivity: 2
+  source_pos:
+  - - 1.935
+    - 1.138
+    - 1.749
+  source_ypr:
+  - - 36.0
+    - 0.0
+room_206:
+  directivity: 2
+  source_pos:
+  - - 8.243
+    - 1.184
+    - 0.87
+  source_ypr:
+  - - 172.0
+    - 0.0
+room_207:
+  directivity: 2
+  source_pos:
+  - - 2.969
+    - 1.98
+    - 1.486
+  source_ypr:
+  - - 95.0
+    - 0.0
+room_208:
+  directivity: 3
+  source_pos:
+  - - 1.429
+    - 2.999
+    - 0.738
+  source_ypr:
+  - - 157.0
+    - 0.0
+room_209:
+  directivity: 1
+  source_pos:
+  - - 0.784
+    - 6.725
+    - 1.443
+  source_ypr:
+  - - 132.0
+    - 0.0
+room_21:
+  directivity: 3
+  source_pos:
+  - - 4.069
+    - 3.534
+    - 1.607
+  source_ypr:
+  - - 24.0
+    - 0.0
+room_210:
+  directivity: 3
+  source_pos:
+  - - 3.481
+    - 7.053
+    - 1.869
+  source_ypr:
+  - - 180.0
+    - 0.0
+room_211:
+  directivity: 1
+  source_pos:
+  - - 1.981
+    - 2.775
+    - 1.478
+  source_ypr:
+  - - 111.0
+    - 0.0
+room_212:
+  directivity: 2
+  source_pos:
+  - - 3.299
+    - 1.982
+    - 1.184
+  source_ypr:
+  - - 7.0
+    - 0.0
+room_213:
+  directivity: 1
+  source_pos:
+  - - 1.871
+    - 0.712
+    - 0.345
+  source_ypr:
+  - - 33.0
+    - 0.0
+room_214:
+  directivity: 1
+  source_pos:
+  - - 1.367
+    - 1.509
+    - 0.414
+  source_ypr:
+  - - 35.0
+    - 0.0
+room_215:
+  directivity: 2
+  source_pos:
+  - - 0.618
+    - 1.34
+    - 0.81
+  source_ypr:
+  - - -26.0
+    - 0.0
+room_216:
+  directivity: 2
+  source_pos:
+  - - 0.475
+    - 4.47
+    - 0.315
+  source_ypr:
+  - - -129.0
+    - 0.0
+room_217:
+  directivity: 1
+  source_pos:
+  - - 1.94
+    - 4.32
+    - 2.139
+  source_ypr:
+  - - 88.0
+    - 0.0
+room_218:
+  directivity: 3
+  source_pos:
+  - - 0.37
+    - 3.523
+    - 0.497
+  source_ypr:
+  - - -22.0
+    - 0.0
+room_219:
+  directivity: 3
+  source_pos:
+  - - 2.125
+    - 5.24
+    - 0.412
+  source_ypr:
+  - - -54.0
+    - 0.0
+room_22:
+  directivity: 2
+  source_pos:
+  - - 5.771
+    - 0.581
+    - 1.976
+  source_ypr:
+  - - -86.0
+    - 0.0
+room_220:
+  directivity: 2
+  source_pos:
+  - - 1.838
+    - 2.128
+    - 0.65
+  source_ypr:
+  - - -112.0
+    - 0.0
+room_221:
+  directivity: 3
+  source_pos:
+  - - 3.149
+    - 3.801
+    - 1.914
+  source_ypr:
+  - - 140.0
+    - 0.0
+room_222:
+  directivity: 2
+  source_pos:
+  - - 2.448
+    - 1.731
+    - 2.124
+  source_ypr:
+  - - 119.0
+    - 0.0
+room_223:
+  directivity: 2
+  source_pos:
+  - - 2.425
+    - 1.754
+    - 2.652
+  source_ypr:
+  - - 30.0
+    - 0.0
+room_224:
+  directivity: 2
+  source_pos:
+  - - 2.748
+    - 1.701
+    - 2.071
+  source_ypr:
+  - - 152.0
+    - 0.0
+room_225:
+  directivity: 3
+  source_pos:
+  - - 0.698
+    - 1.941
+    - 3.876
+  source_ypr:
+  - - -28.0
+    - 0.0
+room_226:
+  directivity: 1
+  source_pos:
+  - - 4.987
+    - 0.693
+    - 2.107
+  source_ypr:
+  - - 106.0
+    - 0.0
+room_227:
+  directivity: 1
+  source_pos:
+  - - 2.179
+    - 0.612
+    - 0.478
+  source_ypr:
+  - - 86.0
+    - 0.0
+room_228:
+  directivity: 3
+  source_pos:
+  - - 1.768
+    - 5.148
+    - 3.318
+  source_ypr:
+  - - 101.0
+    - 0.0
+room_229:
+  directivity: 2
+  source_pos:
+  - - 4.847
+    - 4.682
+    - 0.401
+  source_ypr:
+  - - 118.0
+    - 0.0
+room_23:
+  directivity: 2
+  source_pos:
+  - - 4.057
+    - 1.158
+    - 2.229
+  source_ypr:
+  - - 143.0
+    - 0.0
+room_230:
+  directivity: 3
+  source_pos:
+  - - 5.884
+    - 2.113
+    - 1.247
+  source_ypr:
+  - - 107.0
+    - 0.0
+room_231:
+  directivity: 1
+  source_pos:
+  - - 2.177
+    - 1.441
+    - 2.163
+  source_ypr:
+  - - -16.0
+    - 0.0
+room_232:
+  directivity: 1
+  source_pos:
+  - - 0.349
+    - 1.114
+    - 2.143
+  source_ypr:
+  - - 108.0
+    - 0.0
+room_233:
+  directivity: 2
+  source_pos:
+  - - 5.394
+    - 4.401
+    - 3.256
+  source_ypr:
+  - - 48.0
+    - 0.0
+room_234:
+  directivity: 1
+  source_pos:
+  - - 3.493
+    - 0.428
+    - 1.359
+  source_ypr:
+  - - 0.0
+    - 0.0
+room_235:
+  directivity: 1
+  source_pos:
+  - - 2.236
+    - 2.045
+    - 2.434
+  source_ypr:
+  - - -60.0
+    - 0.0
+room_236:
+  directivity: 1
+  source_pos:
+  - - 5.31
+    - 1.561
+    - 1.204
+  source_ypr:
+  - - -105.0
+    - 0.0
+room_237:
+  directivity: 3
+  source_pos:
+  - - 5.827
+    - 3.521
+    - 2.295
+  source_ypr:
+  - - 47.0
+    - 0.0
+room_238:
+  directivity: 1
+  source_pos:
+  - - 3.984
+    - 7.147
+    - 0.355
+  source_ypr:
+  - - -172.0
+    - 0.0
+room_239:
+  directivity: 2
+  source_pos:
+  - - 0.539
+    - 2.426
+    - 2.09
+  source_ypr:
+  - - 177.0
+    - 0.0
+room_24:
+  directivity: 2
+  source_pos:
+  - - 2.213
+    - 1.592
+    - 1.335
+  source_ypr:
+  - - 166.0
+    - 0.0
+room_240:
+  directivity: 2
+  source_pos:
+  - - 3.243
+    - 2.799
+    - 2.77
+  source_ypr:
+  - - 113.0
+    - 0.0
+room_241:
+  directivity: 1
+  source_pos:
+  - - 3.093
+    - 1.225
+    - 0.336
+  source_ypr:
+  - - 49.0
+    - 0.0
+room_242:
+  directivity: 1
+  source_pos:
+  - - 1.716
+    - 0.891
+    - 1.396
+  source_ypr:
+  - - 17.0
+    - 0.0
+room_243:
+  directivity: 2
+  source_pos:
+  - - 4.889
+    - 1.558
+    - 2.416
+  source_ypr:
+  - - -162.0
+    - 0.0
+room_244:
+  directivity: 1
+  source_pos:
+  - - 3.08
+    - 3.012
+    - 2.294
+  source_ypr:
+  - - 67.0
+    - 0.0
+room_245:
+  directivity: 3
+  source_pos:
+  - - 2.843
+    - 6.749
+    - 1.078
+  source_ypr:
+  - - 89.0
+    - 0.0
+room_246:
+  directivity: 2
+  source_pos:
+  - - 7.474
+    - 5.34
+    - 3.192
+  source_ypr:
+  - - -130.0
+    - 0.0
+room_247:
+  directivity: 3
+  source_pos:
+  - - 8.105
+    - 1.107
+    - 0.416
+  source_ypr:
+  - - -77.0
+    - 0.0
+room_248:
+  directivity: 3
+  source_pos:
+  - - 7.522
+    - 2.41
+    - 0.832
+  source_ypr:
+  - - 161.0
+    - 0.0
+room_249:
+  directivity: 3
+  source_pos:
+  - - 1.032
+    - 4.174
+    - 1.007
+  source_ypr:
+  - - -96.0
+    - 0.0
+room_25:
+  directivity: 2
+  source_pos:
+  - - 6.134
+    - 5.756
+    - 1.896
+  source_ypr:
+  - - -91.0
+    - 0.0
+room_250:
+  directivity: 2
+  source_pos:
+  - - 1.646
+    - 2.046
+    - 1.372
+  source_ypr:
+  - - -88.0
+    - 0.0
+room_251:
+  directivity: 2
+  source_pos:
+  - - 1.492
+    - 8.191
+    - 1.777
+  source_ypr:
+  - - 160.0
+    - 0.0
+room_252:
+  directivity: 1
+  source_pos:
+  - - 1.027
+    - 1.915
+    - 2.608
+  source_ypr:
+  - - 121.0
+    - 0.0
+room_253:
+  directivity: 1
+  source_pos:
+  - - 0.309
+    - 1.612
+    - 0.466
+  source_ypr:
+  - - 134.0
+    - 0.0
+room_254:
+  directivity: 1
+  source_pos:
+  - - 2.942
+    - 1.087
+    - 2.138
+  source_ypr:
+  - - 110.0
+    - 0.0
+room_255:
+  directivity: 1
+  source_pos:
+  - - 2.791
+    - 7.038
+    - 1.755
+  source_ypr:
+  - - -168.0
+    - 0.0
+room_256:
+  directivity: 3
+  source_pos:
+  - - 1.058
+    - 1.814
+    - 1.633
+  source_ypr:
+  - - 17.0
+    - 0.0
+room_257:
+  directivity: 3
+  source_pos:
+  - - 1.455
+    - 2.766
+    - 2.596
+  source_ypr:
+  - - 71.0
+    - 0.0
+room_258:
+  directivity: 3
+  source_pos:
+  - - 0.711
+    - 0.987
+    - 0.931
+  source_ypr:
+  - - -54.0
+    - 0.0
+room_259:
+  directivity: 1
+  source_pos:
+  - - 2.574
+    - 2.248
+    - 2.834
+  source_ypr:
+  - - -178.0
+    - 0.0
+room_26:
+  directivity: 2
+  source_pos:
+  - - 3.588
+    - 3.773
+    - 0.816
+  source_ypr:
+  - - -143.0
+    - 0.0
+room_260:
+  directivity: 2
+  source_pos:
+  - - 5.089
+    - 4.17
+    - 1.17
+  source_ypr:
+  - - 152.0
+    - 0.0
+room_261:
+  directivity: 1
+  source_pos:
+  - - 0.698
+    - 0.711
+    - 1.674
+  source_ypr:
+  - - 75.0
+    - 0.0
+room_262:
+  directivity: 1
+  source_pos:
+  - - 2.622
+    - 3.513
+    - 0.804
+  source_ypr:
+  - - -21.0
+    - 0.0
+room_263:
+  directivity: 2
+  source_pos:
+  - - 0.935
+    - 3.956
+    - 0.842
+  source_ypr:
+  - - -165.0
+    - 0.0
+room_264:
+  directivity: 3
+  source_pos:
+  - - 2.488
+    - 7.495
+    - 1.298
+  source_ypr:
+  - - 3.0
+    - 0.0
+room_265:
+  directivity: 2
+  source_pos:
+  - - 1.522
+    - 1.975
+    - 0.927
+  source_ypr:
+  - - -87.0
+    - 0.0
+room_266:
+  directivity: 1
+  source_pos:
+  - - 1.077
+    - 6.989
+    - 2.289
+  source_ypr:
+  - - -53.0
+    - 0.0
+room_267:
+  directivity: 1
+  source_pos:
+  - - 5.528
+    - 2.466
+    - 1.559
+  source_ypr:
+  - - -139.0
+    - 0.0
+room_268:
+  directivity: 2
+  source_pos:
+  - - 1.702
+    - 2.73
+    - 0.875
+  source_ypr:
+  - - -105.0
+    - 0.0
+room_269:
+  directivity: 3
+  source_pos:
+  - - 5.065
+    - 0.801
+    - 0.588
+  source_ypr:
+  - - 23.0
+    - 0.0
+room_27:
+  directivity: 3
+  source_pos:
+  - - 0.697
+    - 1.139
+    - 3.296
+  source_ypr:
+  - - -87.0
+    - 0.0
+room_270:
+  directivity: 3
+  source_pos:
+  - - 1.029
+    - 3.113
+    - 0.364
+  source_ypr:
+  - - 64.0
+    - 0.0
+room_271:
+  directivity: 1
+  source_pos:
+  - - 4.623
+    - 4.904
+    - 0.363
+  source_ypr:
+  - - -9.0
+    - 0.0
+room_272:
+  directivity: 2
+  source_pos:
+  - - 1.154
+    - 1.544
+    - 1.169
+  source_ypr:
+  - - -149.0
+    - 0.0
+room_273:
+  directivity: 2
+  source_pos:
+  - - 3.203
+    - 1.617
+    - 0.763
+  source_ypr:
+  - - -87.0
+    - 0.0
+room_274:
+  directivity: 1
+  source_pos:
+  - - 2.129
+    - 6.634
+    - 3.216
+  source_ypr:
+  - - 133.0
+    - 0.0
+room_275:
+  directivity: 1
+  source_pos:
+  - - 1.757
+    - 3.192
+    - 1.254
+  source_ypr:
+  - - 20.0
+    - 0.0
+room_276:
+  directivity: 3
+  source_pos:
+  - - 1.453
+    - 4.525
+    - 1.602
+  source_ypr:
+  - - 116.0
+    - 0.0
+room_277:
+  directivity: 2
+  source_pos:
+  - - 1.667
+    - 2.381
+    - 0.403
+  source_ypr:
+  - - -86.0
+    - 0.0
+room_278:
+  directivity: 2
+  source_pos:
+  - - 4.079
+    - 0.838
+    - 0.427
+  source_ypr:
+  - - -79.0
+    - 0.0
+room_279:
+  directivity: 1
+  source_pos:
+  - - 1.424
+    - 1.781
+    - 1.466
+  source_ypr:
+  - - -65.0
+    - 0.0
+room_28:
+  directivity: 3
+  source_pos:
+  - - 1.024
+    - 1.611
+    - 3.693
+  source_ypr:
+  - - 170.0
+    - 0.0
+room_280:
+  directivity: 2
+  source_pos:
+  - - 2.855
+    - 2.411
+    - 1.957
+  source_ypr:
+  - - 178.0
+    - 0.0
+room_281:
+  directivity: 1
+  source_pos:
+  - - 1.039
+    - 4.701
+    - 0.69
+  source_ypr:
+  - - -59.0
+    - 0.0
+room_282:
+  directivity: 2
+  source_pos:
+  - - 1.474
+    - 7.791
+    - 1.862
+  source_ypr:
+  - - -178.0
+    - 0.0
+room_283:
+  directivity: 2
+  source_pos:
+  - - 4.747
+    - 2.848
+    - 3.006
+  source_ypr:
+  - - -166.0
+    - 0.0
+room_284:
+  directivity: 1
+  source_pos:
+  - - 2.03
+    - 3.376
+    - 1.005
+  source_ypr:
+  - - 96.0
+    - 0.0
+room_285:
+  directivity: 3
+  source_pos:
+  - - 7.881
+    - 1.656
+    - 3.249
+  source_ypr:
+  - - 103.0
+    - 0.0
+room_286:
+  directivity: 2
+  source_pos:
+  - - 1.091
+    - 6.135
+    - 0.807
+  source_ypr:
+  - - 154.0
+    - 0.0
+room_287:
+  directivity: 1
+  source_pos:
+  - - 1.247
+    - 8.565
+    - 0.465
+  source_ypr:
+  - - -157.0
+    - 0.0
+room_288:
+  directivity: 2
+  source_pos:
+  - - 5.419
+    - 1.401
+    - 1.512
+  source_ypr:
+  - - 99.0
+    - 0.0
+room_289:
+  directivity: 3
+  source_pos:
+  - - 5.27
+    - 0.964
+    - 1.396
+  source_ypr:
+  - - -38.0
+    - 0.0
+room_29:
+  directivity: 2
+  source_pos:
+  - - 5.198
+    - 0.427
+    - 2.76
+  source_ypr:
+  - - 33.0
+    - 0.0
+room_290:
+  directivity: 1
+  source_pos:
+  - - 1.169
+    - 6.322
+    - 1.454
+  source_ypr:
+  - - -111.0
+    - 0.0
+room_291:
+  directivity: 1
+  source_pos:
+  - - 6.051
+    - 3.113
+    - 0.9
+  source_ypr:
+  - - -89.0
+    - 0.0
+room_292:
+  directivity: 1
+  source_pos:
+  - - 2.841
+    - 6.74
+    - 0.987
+  source_ypr:
+  - - -150.0
+    - 0.0
+room_293:
+  directivity: 3
+  source_pos:
+  - - 5.817
+    - 3.852
+    - 1.636
+  source_ypr:
+  - - 8.0
+    - 0.0
+room_294:
+  directivity: 2
+  source_pos:
+  - - 0.832
+    - 8.493
+    - 0.948
+  source_ypr:
+  - - 1.0
+    - 0.0
+room_295:
+  directivity: 2
+  source_pos:
+  - - 0.322
+    - 5.629
+    - 3.606
+  source_ypr:
+  - - -72.0
+    - 0.0
+room_296:
+  directivity: 3
+  source_pos:
+  - - 3.399
+    - 1.825
+    - 0.713
+  source_ypr:
+  - - -16.0
+    - 0.0
+room_297:
+  directivity: 1
+  source_pos:
+  - - 3.324
+    - 2.366
+    - 1.138
+  source_ypr:
+  - - 136.0
+    - 0.0
+room_298:
+  directivity: 1
+  source_pos:
+  - - 2.223
+    - 1.539
+    - 1.362
+  source_ypr:
+  - - -118.0
+    - 0.0
+room_299:
+  directivity: 2
+  source_pos:
+  - - 2.537
+    - 6.86
+    - 2.1
+  source_ypr:
+  - - -126.0
+    - 0.0
+room_3:
+  directivity: 3
+  source_pos:
+  - - 1.026
+    - 2.248
+    - 3.281
+  source_ypr:
+  - - -34.0
+    - 0.0
+room_30:
+  directivity: 1
+  source_pos:
+  - - 1.068
+    - 1.42
+    - 1.919
+  source_ypr:
+  - - -150.0
+    - 0.0
+room_300:
+  directivity: 2
+  source_pos:
+  - - 1.144
+    - 1.021
+    - 1.607
+  source_ypr:
+  - - 137.0
+    - 0.0
+room_301:
+  directivity: 2
+  source_pos:
+  - - 2.22
+    - 1.789
+    - 1.55
+  source_ypr:
+  - - -17.0
+    - 0.0
+room_302:
+  directivity: 2
+  source_pos:
+  - - 2.091
+    - 2.536
+    - 0.347
+  source_ypr:
+  - - 174.0
+    - 0.0
+room_303:
+  directivity: 3
+  source_pos:
+  - - 3.816
+    - 3.674
+    - 2.375
+  source_ypr:
+  - - 65.0
+    - 0.0
+room_304:
+  directivity: 2
+  source_pos:
+  - - 1.12
+    - 1.585
+    - 0.447
+  source_ypr:
+  - - -19.0
+    - 0.0
+room_305:
+  directivity: 3
+  source_pos:
+  - - 4.978
+    - 5.438
+    - 2.043
+  source_ypr:
+  - - -56.0
+    - 0.0
+room_306:
+  directivity: 2
+  source_pos:
+  - - 4.365
+    - 0.799
+    - 0.4
+  source_ypr:
+  - - -19.0
+    - 0.0
+room_307:
+  directivity: 1
+  source_pos:
+  - - 3.712
+    - 1.713
+    - 2.022
+  source_ypr:
+  - - -60.0
+    - 0.0
+room_308:
+  directivity: 3
+  source_pos:
+  - - 3.304
+    - 0.401
+    - 0.993
+  source_ypr:
+  - - 93.0
+    - 0.0
+room_309:
+  directivity: 1
+  source_pos:
+  - - 4.073
+    - 3.883
+    - 2.097
+  source_ypr:
+  - - 81.0
+    - 0.0
+room_31:
+  directivity: 1
+  source_pos:
+  - - 0.812
+    - 3.775
+    - 3.095
+  source_ypr:
+  - - 139.0
+    - 0.0
+room_310:
+  directivity: 2
+  source_pos:
+  - - 4.433
+    - 1.477
+    - 0.73
+  source_ypr:
+  - - 141.0
+    - 0.0
+room_311:
+  directivity: 2
+  source_pos:
+  - - 0.451
+    - 4.724
+    - 1.473
+  source_ypr:
+  - - -88.0
+    - 0.0
+room_312:
+  directivity: 1
+  source_pos:
+  - - 1.369
+    - 1.219
+    - 0.677
+  source_ypr:
+  - - -150.0
+    - 0.0
+room_313:
+  directivity: 2
+  source_pos:
+  - - 2.881
+    - 1.536
+    - 2.121
+  source_ypr:
+  - - -51.0
+    - 0.0
+room_314:
+  directivity: 3
+  source_pos:
+  - - 1.705
+    - 2.79
+    - 2.768
+  source_ypr:
+  - - -30.0
+    - 0.0
+room_315:
+  directivity: 1
+  source_pos:
+  - - 0.949
+    - 2.064
+    - 0.56
+  source_ypr:
+  - - 54.0
+    - 0.0
+room_316:
+  directivity: 1
+  source_pos:
+  - - 1.469
+    - 0.469
+    - 1.799
+  source_ypr:
+  - - 109.0
+    - 0.0
+room_317:
+  directivity: 3
+  source_pos:
+  - - 5.505
+    - 4.648
+    - 0.844
+  source_ypr:
+  - - -61.0
+    - 0.0
+room_318:
+  directivity: 2
+  source_pos:
+  - - 4.231
+    - 1.971
+    - 1.889
+  source_ypr:
+  - - -109.0
+    - 0.0
+room_319:
+  directivity: 1
+  source_pos:
+  - - 1.745
+    - 2.831
+    - 0.442
+  source_ypr:
+  - - 110.0
+    - 0.0
+room_32:
+  directivity: 2
+  source_pos:
+  - - 1.974
+    - 2.007
+    - 2.593
+  source_ypr:
+  - - 50.0
+    - 0.0
+room_320:
+  directivity: 1
+  source_pos:
+  - - 2.214
+    - 8.449
+    - 2.918
+  source_ypr:
+  - - 105.0
+    - 0.0
+room_321:
+  directivity: 1
+  source_pos:
+  - - 2.685
+    - 4.15
+    - 0.773
+  source_ypr:
+  - - 171.0
+    - 0.0
+room_322:
+  directivity: 1
+  source_pos:
+  - - 2.685
+    - 1.937
+    - 1.133
+  source_ypr:
+  - - -66.0
+    - 0.0
+room_323:
+  directivity: 3
+  source_pos:
+  - - 2.238
+    - 3.446
+    - 1.567
+  source_ypr:
+  - - -53.0
+    - 0.0
+room_324:
+  directivity: 2
+  source_pos:
+  - - 0.484
+    - 0.419
+    - 1.595
+  source_ypr:
+  - - 15.0
+    - 0.0
+room_325:
+  directivity: 2
+  source_pos:
+  - - 0.581
+    - 2.936
+    - 1.35
+  source_ypr:
+  - - 13.0
+    - 0.0
+room_326:
+  directivity: 1
+  source_pos:
+  - - 3.745
+    - 2.24
+    - 1.259
+  source_ypr:
+  - - -90.0
+    - 0.0
+room_327:
+  directivity: 3
+  source_pos:
+  - - 2.724
+    - 4.495
+    - 0.688
+  source_ypr:
+  - - 56.0
+    - 0.0
+room_328:
+  directivity: 2
+  source_pos:
+  - - 1.364
+    - 0.734
+    - 0.664
+  source_ypr:
+  - - 13.0
+    - 0.0
+room_329:
+  directivity: 3
+  source_pos:
+  - - 0.611
+    - 0.733
+    - 2.615
+  source_ypr:
+  - - 21.0
+    - 0.0
+room_33:
+  directivity: 1
+  source_pos:
+  - - 3.443
+    - 0.71
+    - 1.112
+  source_ypr:
+  - - 16.0
+    - 0.0
+room_330:
+  directivity: 1
+  source_pos:
+  - - 5.147
+    - 1.037
+    - 3.628
+  source_ypr:
+  - - 28.0
+    - 0.0
+room_331:
+  directivity: 3
+  source_pos:
+  - - 0.972
+    - 1.933
+    - 2.087
+  source_ypr:
+  - - 15.0
+    - 0.0
+room_332:
+  directivity: 2
+  source_pos:
+  - - 2.837
+    - 1.66
+    - 2.173
+  source_ypr:
+  - - -81.0
+    - 0.0
+room_333:
+  directivity: 3
+  source_pos:
+  - - 1.592
+    - 0.501
+    - 2.817
+  source_ypr:
+  - - -166.0
+    - 0.0
+room_334:
+  directivity: 3
+  source_pos:
+  - - 0.965
+    - 0.395
+    - 0.642
+  source_ypr:
+  - - 152.0
+    - 0.0
+room_335:
+  directivity: 3
+  source_pos:
+  - - 5.901
+    - 1.001
+    - 1.61
+  source_ypr:
+  - - 46.0
+    - 0.0
+room_336:
+  directivity: 2
+  source_pos:
+  - - 4.264
+    - 2.678
+    - 0.446
+  source_ypr:
+  - - -171.0
+    - 0.0
+room_337:
+  directivity: 1
+  source_pos:
+  - - 4.653
+    - 0.364
+    - 0.605
+  source_ypr:
+  - - 24.0
+    - 0.0
+room_338:
+  directivity: 3
+  source_pos:
+  - - 1.786
+    - 1.105
+    - 2.478
+  source_ypr:
+  - - -5.0
+    - 0.0
+room_339:
+  directivity: 2
+  source_pos:
+  - - 5.924
+    - 4.895
+    - 2.39
+  source_ypr:
+  - - 98.0
+    - 0.0
+room_34:
+  directivity: 2
+  source_pos:
+  - - 1.537
+    - 7.835
+    - 1.542
+  source_ypr:
+  - - -151.0
+    - 0.0
+room_340:
+  directivity: 1
+  source_pos:
+  - - 2.029
+    - 2.04
+    - 2.122
+  source_ypr:
+  - - -112.0
+    - 0.0
+room_341:
+  directivity: 3
+  source_pos:
+  - - 1.356
+    - 4.017
+    - 1.388
+  source_ypr:
+  - - -155.0
+    - 0.0
+room_342:
+  directivity: 3
+  source_pos:
+  - - 3.566
+    - 2.462
+    - 1.257
+  source_ypr:
+  - - -10.0
+    - 0.0
+room_343:
+  directivity: 3
+  source_pos:
+  - - 0.404
+    - 2.181
+    - 0.399
+  source_ypr:
+  - - -76.0
+    - 0.0
+room_344:
+  directivity: 3
+  source_pos:
+  - - 5.319
+    - 1.505
+    - 0.844
+  source_ypr:
+  - - -102.0
+    - 0.0
+room_345:
+  directivity: 1
+  source_pos:
+  - - 0.859
+    - 4.878
+    - 0.555
+  source_ypr:
+  - - -136.0
+    - 0.0
+room_346:
+  directivity: 3
+  source_pos:
+  - - 3.202
+    - 2.274
+    - 2.036
+  source_ypr:
+  - - -137.0
+    - 0.0
+room_347:
+  directivity: 1
+  source_pos:
+  - - 2.412
+    - 0.416
+    - 3.35
+  source_ypr:
+  - - 77.0
+    - 0.0
+room_348:
+  directivity: 3
+  source_pos:
+  - - 3.724
+    - 2.234
+    - 1.858
+  source_ypr:
+  - - -163.0
+    - 0.0
+room_349:
+  directivity: 3
+  source_pos:
+  - - 2.724
+    - 3.144
+    - 0.442
+  source_ypr:
+  - - 131.0
+    - 0.0
+room_35:
+  directivity: 2
+  source_pos:
+  - - 1.978
+    - 0.757
+    - 1.694
+  source_ypr:
+  - - -33.0
+    - 0.0
+room_350:
+  directivity: 2
+  source_pos:
+  - - 2.935
+    - 6.681
+    - 1.714
+  source_ypr:
+  - - 159.0
+    - 0.0
+room_351:
+  directivity: 3
+  source_pos:
+  - - 7.987
+    - 2.848
+    - 2.585
+  source_ypr:
+  - - 98.0
+    - 0.0
+room_352:
+  directivity: 1
+  source_pos:
+  - - 3.503
+    - 5.869
+    - 1.005
+  source_ypr:
+  - - -45.0
+    - 0.0
+room_353:
+  directivity: 3
+  source_pos:
+  - - 4.804
+    - 0.817
+    - 2.31
+  source_ypr:
+  - - -19.0
+    - 0.0
+room_354:
+  directivity: 1
+  source_pos:
+  - - 0.562
+    - 2.629
+    - 0.847
+  source_ypr:
+  - - -115.0
+    - 0.0
+room_355:
+  directivity: 2
+  source_pos:
+  - - 0.992
+    - 2.459
+    - 1.183
+  source_ypr:
+  - - 76.0
+    - 0.0
+room_356:
+  directivity: 1
+  source_pos:
+  - - 0.403
+    - 0.627
+    - 0.4
+  source_ypr:
+  - - 140.0
+    - 0.0
+room_357:
+  directivity: 3
+  source_pos:
+  - - 7.564
+    - 1.172
+    - 2.507
+  source_ypr:
+  - - -140.0
+    - 0.0
+room_358:
+  directivity: 3
+  source_pos:
+  - - 0.702
+    - 3.88
+    - 1.021
+  source_ypr:
+  - - -170.0
+    - 0.0
+room_359:
+  directivity: 1
+  source_pos:
+  - - 2.571
+    - 7.769
+    - 0.433
+  source_ypr:
+  - - 83.0
+    - 0.0
+room_36:
+  directivity: 3
+  source_pos:
+  - - 2.828
+    - 0.813
+    - 0.556
+  source_ypr:
+  - - -167.0
+    - 0.0
+room_360:
+  directivity: 2
+  source_pos:
+  - - 1.151
+    - 0.586
+    - 3.055
+  source_ypr:
+  - - 14.0
+    - 0.0
+room_361:
+  directivity: 1
+  source_pos:
+  - - 3.015
+    - 1.165
+    - 1.769
+  source_ypr:
+  - - -118.0
+    - 0.0
+room_362:
+  directivity: 3
+  source_pos:
+  - - 3.311
+    - 2.837
+    - 1.112
+  source_ypr:
+  - - -4.0
+    - 0.0
+room_363:
+  directivity: 3
+  source_pos:
+  - - 4.391
+    - 2.192
+    - 1.762
+  source_ypr:
+  - - -142.0
+    - 0.0
+room_364:
+  directivity: 3
+  source_pos:
+  - - 3.418
+    - 7.862
+    - 1.084
+  source_ypr:
+  - - 52.0
+    - 0.0
+room_365:
+  directivity: 2
+  source_pos:
+  - - 1.099
+    - 3.395
+    - 2.989
+  source_ypr:
+  - - -71.0
+    - 0.0
+room_366:
+  directivity: 3
+  source_pos:
+  - - 4.238
+    - 2.618
+    - 2.018
+  source_ypr:
+  - - -12.0
+    - 0.0
+room_367:
+  directivity: 2
+  source_pos:
+  - - 2.486
+    - 3.812
+    - 2.719
+  source_ypr:
+  - - -142.0
+    - 0.0
+room_368:
+  directivity: 2
+  source_pos:
+  - - 1.595
+    - 5.813
+    - 1.416
+  source_ypr:
+  - - 57.0
+    - 0.0
+room_369:
+  directivity: 1
+  source_pos:
+  - - 1.082
+    - 1.467
+    - 0.458
+  source_ypr:
+  - - 138.0
+    - 0.0
+room_37:
+  directivity: 2
+  source_pos:
+  - - 1.674
+    - 5.478
+    - 3.219
+  source_ypr:
+  - - -176.0
+    - 0.0
+room_370:
+  directivity: 1
+  source_pos:
+  - - 0.964
+    - 1.056
+    - 0.578
+  source_ypr:
+  - - -44.0
+    - 0.0
+room_371:
+  directivity: 3
+  source_pos:
+  - - 0.663
+    - 1.857
+    - 0.935
+  source_ypr:
+  - - 163.0
+    - 0.0
+room_372:
+  directivity: 2
+  source_pos:
+  - - 2.852
+    - 2.631
+    - 1.361
+  source_ypr:
+  - - 36.0
+    - 0.0
+room_373:
+  directivity: 2
+  source_pos:
+  - - 1.223
+    - 0.853
+    - 3.471
+  source_ypr:
+  - - -110.0
+    - 0.0
+room_374:
+  directivity: 3
+  source_pos:
+  - - 2.164
+    - 1.708
+    - 1.988
+  source_ypr:
+  - - 165.0
+    - 0.0
+room_375:
+  directivity: 3
+  source_pos:
+  - - 2.402
+    - 2.371
+    - 1.68
+  source_ypr:
+  - - 158.0
+    - 0.0
+room_376:
+  directivity: 3
+  source_pos:
+  - - 6.325
+    - 0.796
+    - 1.969
+  source_ypr:
+  - - -81.0
+    - 0.0
+room_377:
+  directivity: 1
+  source_pos:
+  - - 1.287
+    - 2.054
+    - 1.411
+  source_ypr:
+  - - -28.0
+    - 0.0
+room_378:
+  directivity: 2
+  source_pos:
+  - - 5.518
+    - 5.246
+    - 2.518
+  source_ypr:
+  - - -174.0
+    - 0.0
+room_379:
+  directivity: 2
+  source_pos:
+  - - 4.154
+    - 2.428
+    - 3.214
+  source_ypr:
+  - - -15.0
+    - 0.0
+room_38:
+  directivity: 2
+  source_pos:
+  - - 2.942
+    - 5.422
+    - 0.602
+  source_ypr:
+  - - -153.0
+    - 0.0
+room_380:
+  directivity: 2
+  source_pos:
+  - - 4.011
+    - 1.383
+    - 1.991
+  source_ypr:
+  - - 69.0
+    - 0.0
+room_381:
+  directivity: 1
+  source_pos:
+  - - 4.316
+    - 4.04
+    - 0.657
+  source_ypr:
+  - - -76.0
+    - 0.0
+room_382:
+  directivity: 3
+  source_pos:
+  - - 1.349
+    - 0.412
+    - 0.549
+  source_ypr:
+  - - 34.0
+    - 0.0
+room_383:
+  directivity: 2
+  source_pos:
+  - - 5.098
+    - 0.801
+    - 2.296
+  source_ypr:
+  - - 20.0
+    - 0.0
+room_384:
+  directivity: 3
+  source_pos:
+  - - 3.859
+    - 5.0
+    - 2.783
+  source_ypr:
+  - - 140.0
+    - 0.0
+room_385:
+  directivity: 1
+  source_pos:
+  - - 6.436
+    - 0.672
+    - 2.215
+  source_ypr:
+  - - -17.0
+    - 0.0
+room_386:
+  directivity: 1
+  source_pos:
+  - - 2.868
+    - 2.637
+    - 2.828
+  source_ypr:
+  - - -157.0
+    - 0.0
+room_387:
+  directivity: 1
+  source_pos:
+  - - 4.236
+    - 0.365
+    - 0.669
+  source_ypr:
+  - - -24.0
+    - 0.0
+room_388:
+  directivity: 3
+  source_pos:
+  - - 2.231
+    - 0.722
+    - 3.057
+  source_ypr:
+  - - -72.0
+    - 0.0
+room_389:
+  directivity: 3
+  source_pos:
+  - - 4.667
+    - 2.929
+    - 1.081
+  source_ypr:
+  - - -12.0
+    - 0.0
+room_39:
+  directivity: 3
+  source_pos:
+  - - 4.966
+    - 1.267
+    - 3.563
+  source_ypr:
+  - - -138.0
+    - 0.0
+room_390:
+  directivity: 2
+  source_pos:
+  - - 1.114
+    - 5.479
+    - 2.541
+  source_ypr:
+  - - -20.0
+    - 0.0
+room_391:
+  directivity: 1
+  source_pos:
+  - - 4.562
+    - 4.327
+    - 2.022
+  source_ypr:
+  - - -81.0
+    - 0.0
+room_392:
+  directivity: 2
+  source_pos:
+  - - 1.623
+    - 6.542
+    - 0.519
+  source_ypr:
+  - - 104.0
+    - 0.0
+room_393:
+  directivity: 1
+  source_pos:
+  - - 0.316
+    - 1.752
+    - 1.275
+  source_ypr:
+  - - -74.0
+    - 0.0
+room_394:
+  directivity: 3
+  source_pos:
+  - - 2.484
+    - 2.672
+    - 1.116
+  source_ypr:
+  - - -88.0
+    - 0.0
+room_395:
+  directivity: 3
+  source_pos:
+  - - 4.732
+    - 1.225
+    - 1.823
+  source_ypr:
+  - - 89.0
+    - 0.0
+room_396:
+  directivity: 3
+  source_pos:
+  - - 4.26
+    - 2.589
+    - 2.734
+  source_ypr:
+  - - 143.0
+    - 0.0
+room_397:
+  directivity: 2
+  source_pos:
+  - - 1.056
+    - 4.968
+    - 1.562
+  source_ypr:
+  - - -82.0
+    - 0.0
+room_398:
+  directivity: 3
+  source_pos:
+  - - 1.643
+    - 9.036
+    - 0.72
+  source_ypr:
+  - - -102.0
+    - 0.0
+room_399:
+  directivity: 2
+  source_pos:
+  - - 6.6
+    - 0.515
+    - 0.501
+  source_ypr:
+  - - 41.0
+    - 0.0
+room_4:
+  directivity: 2
+  source_pos:
+  - - 6.971
+    - 0.539
+    - 0.786
+  source_ypr:
+  - - -5.0
+    - 0.0
+room_40:
+  directivity: 2
+  source_pos:
+  - - 1.126
+    - 1.83
+    - 0.37
+  source_ypr:
+  - - 4.0
+    - 0.0
+room_41:
+  directivity: 1
+  source_pos:
+  - - 2.064
+    - 3.677
+    - 1.044
+  source_ypr:
+  - - 5.0
+    - 0.0
+room_42:
+  directivity: 1
+  source_pos:
+  - - 1.173
+    - 1.096
+    - 2.738
+  source_ypr:
+  - - 132.0
+    - 0.0
+room_43:
+  directivity: 1
+  source_pos:
+  - - 3.127
+    - 0.453
+    - 0.451
+  source_ypr:
+  - - 120.0
+    - 0.0
+room_44:
+  directivity: 2
+  source_pos:
+  - - 2.137
+    - 1.836
+    - 0.438
+  source_ypr:
+  - - 101.0
+    - 0.0
+room_45:
+  directivity: 2
+  source_pos:
+  - - 1.316
+    - 3.257
+    - 2.622
+  source_ypr:
+  - - -115.0
+    - 0.0
+room_46:
+  directivity: 3
+  source_pos:
+  - - 4.219
+    - 6.209
+    - 1.472
+  source_ypr:
+  - - 149.0
+    - 0.0
+room_47:
+  directivity: 3
+  source_pos:
+  - - 4.046
+    - 1.626
+    - 1.341
+  source_ypr:
+  - - 2.0
+    - 0.0
+room_48:
+  directivity: 1
+  source_pos:
+  - - 3.245
+    - 0.87
+    - 1.234
+  source_ypr:
+  - - -150.0
+    - 0.0
+room_49:
+  directivity: 3
+  source_pos:
+  - - 6.136
+    - 4.536
+    - 3.794
+  source_ypr:
+  - - 156.0
+    - 0.0
+room_5:
+  directivity: 3
+  source_pos:
+  - - 3.815
+    - 0.634
+    - 1.144
+  source_ypr:
+  - - 178.0
+    - 0.0
+room_50:
+  directivity: 2
+  source_pos:
+  - - 3.912
+    - 2.052
+    - 1.063
+  source_ypr:
+  - - 39.0
+    - 0.0
+room_51:
+  directivity: 1
+  source_pos:
+  - - 4.342
+    - 3.278
+    - 2.146
+  source_ypr:
+  - - -35.0
+    - 0.0
+room_52:
+  directivity: 2
+  source_pos:
+  - - 2.601
+    - 6.842
+    - 1.843
+  source_ypr:
+  - - -25.0
+    - 0.0
+room_53:
+  directivity: 1
+  source_pos:
+  - - 3.809
+    - 1.344
+    - 2.088
+  source_ypr:
+  - - 6.0
+    - 0.0
+room_54:
+  directivity: 1
+  source_pos:
+  - - 8.008
+    - 1.677
+    - 0.834
+  source_ypr:
+  - - -4.0
+    - 0.0
+room_55:
+  directivity: 3
+  source_pos:
+  - - 3.159
+    - 0.733
+    - 1.42
+  source_ypr:
+  - - -24.0
+    - 0.0
+room_56:
+  directivity: 1
+  source_pos:
+  - - 0.739
+    - 5.365
+    - 1.689
+  source_ypr:
+  - - -126.0
+    - 0.0
+room_57:
+  directivity: 1
+  source_pos:
+  - - 6.64
+    - 1.798
+    - 1.949
+  source_ypr:
+  - - -85.0
+    - 0.0
+room_58:
+  directivity: 2
+  source_pos:
+  - - 2.212
+    - 0.949
+    - 1.062
+  source_ypr:
+  - - -2.0
+    - 0.0
+room_59:
+  directivity: 2
+  source_pos:
+  - - 1.769
+    - 2.118
+    - 1.925
+  source_ypr:
+  - - 102.0
+    - 0.0
+room_6:
+  directivity: 1
+  source_pos:
+  - - 0.584
+    - 0.969
+    - 0.578
+  source_ypr:
+  - - -64.0
+    - 0.0
+room_60:
+  directivity: 2
+  source_pos:
+  - - 0.447
+    - 0.513
+    - 1.741
+  source_ypr:
+  - - -76.0
+    - 0.0
+room_61:
+  directivity: 1
+  source_pos:
+  - - 4.815
+    - 7.006
+    - 0.513
+  source_ypr:
+  - - -61.0
+    - 0.0
+room_62:
+  directivity: 2
+  source_pos:
+  - - 2.478
+    - 5.168
+    - 1.337
+  source_ypr:
+  - - 50.0
+    - 0.0
+room_63:
+  directivity: 2
+  source_pos:
+  - - 5.85
+    - 4.751
+    - 0.443
+  source_ypr:
+  - - 63.0
+    - 0.0
+room_64:
+  directivity: 2
+  source_pos:
+  - - 1.32
+    - 4.886
+    - 2.161
+  source_ypr:
+  - - 159.0
+    - 0.0
+room_65:
+  directivity: 2
+  source_pos:
+  - - 1.324
+    - 2.915
+    - 2.474
+  source_ypr:
+  - - -33.0
+    - 0.0
+room_66:
+  directivity: 1
+  source_pos:
+  - - 2.535
+    - 1.39
+    - 0.494
+  source_ypr:
+  - - -155.0
+    - 0.0
+room_67:
+  directivity: 1
+  source_pos:
+  - - 1.225
+    - 0.682
+    - 1.93
+  source_ypr:
+  - - 126.0
+    - 0.0
+room_68:
+  directivity: 1
+  source_pos:
+  - - 5.168
+    - 4.571
+    - 2.475
+  source_ypr:
+  - - -148.0
+    - 0.0
+room_69:
+  directivity: 2
+  source_pos:
+  - - 3.79
+    - 2.196
+    - 1.925
+  source_ypr:
+  - - 90.0
+    - 0.0
+room_7:
+  directivity: 2
+  source_pos:
+  - - 2.804
+    - 3.483
+    - 0.386
+  source_ypr:
+  - - -44.0
+    - 0.0
+room_70:
+  directivity: 1
+  source_pos:
+  - - 1.062
+    - 2.045
+    - 0.831
+  source_ypr:
+  - - 145.0
+    - 0.0
+room_71:
+  directivity: 2
+  source_pos:
+  - - 2.632
+    - 0.407
+    - 0.996
+  source_ypr:
+  - - 122.0
+    - 0.0
+room_72:
+  directivity: 2
+  source_pos:
+  - - 1.63
+    - 3.607
+    - 1.945
+  source_ypr:
+  - - 95.0
+    - 0.0
+room_73:
+  directivity: 2
+  source_pos:
+  - - 3.551
+    - 1.766
+    - 2.031
+  source_ypr:
+  - - -142.0
+    - 0.0
+room_74:
+  directivity: 3
+  source_pos:
+  - - 0.466
+    - 4.227
+    - 0.633
+  source_ypr:
+  - - 167.0
+    - 0.0
+room_75:
+  directivity: 2
+  source_pos:
+  - - 4.33
+    - 1.267
+    - 2.044
+  source_ypr:
+  - - -88.0
+    - 0.0
+room_76:
+  directivity: 2
+  source_pos:
+  - - 5.321
+    - 3.247
+    - 1.832
+  source_ypr:
+  - - 169.0
+    - 0.0
+room_77:
+  directivity: 2
+  source_pos:
+  - - 4.5
+    - 3.478
+    - 2.31
+  source_ypr:
+  - - 26.0
+    - 0.0
+room_78:
+  directivity: 1
+  source_pos:
+  - - 1.439
+    - 1.267
+    - 1.064
+  source_ypr:
+  - - 84.0
+    - 0.0
+room_79:
+  directivity: 3
+  source_pos:
+  - - 0.95
+    - 0.97
+    - 1.272
+  source_ypr:
+  - - -12.0
+    - 0.0
+room_8:
+  directivity: 3
+  source_pos:
+  - - 0.693
+    - 8.899
+    - 1.295
+  source_ypr:
+  - - 98.0
+    - 0.0
+room_80:
+  directivity: 1
+  source_pos:
+  - - 1.861
+    - 4.029
+    - 0.607
+  source_ypr:
+  - - 80.0
+    - 0.0
+room_81:
+  directivity: 1
+  source_pos:
+  - - 3.655
+    - 1.38
+    - 0.958
+  source_ypr:
+  - - 115.0
+    - 0.0
+room_82:
+  directivity: 3
+  source_pos:
+  - - 1.377
+    - 0.604
+    - 3.06
+  source_ypr:
+  - - -167.0
+    - 0.0
+room_83:
+  directivity: 3
+  source_pos:
+  - - 1.367
+    - 3.131
+    - 3.119
+  source_ypr:
+  - - -180.0
+    - 0.0
+room_84:
+  directivity: 1
+  source_pos:
+  - - 3.133
+    - 0.4
+    - 2.269
+  source_ypr:
+  - - -178.0
+    - 0.0
+room_85:
+  directivity: 3
+  source_pos:
+  - - 1.871
+    - 7.462
+    - 1.415
+  source_ypr:
+  - - -58.0
+    - 0.0
+room_86:
+  directivity: 1
+  source_pos:
+  - - 2.506
+    - 2.706
+    - 0.932
+  source_ypr:
+  - - 137.0
+    - 0.0
+room_87:
+  directivity: 2
+  source_pos:
+  - - 5.613
+    - 4.915
+    - 0.514
+  source_ypr:
+  - - 72.0
+    - 0.0
+room_88:
+  directivity: 3
+  source_pos:
+  - - 2.706
+    - 2.611
+    - 2.175
+  source_ypr:
+  - - -153.0
+    - 0.0
+room_89:
+  directivity: 2
+  source_pos:
+  - - 2.977
+    - 1.234
+    - 2.343
+  source_ypr:
+  - - 65.0
+    - 0.0
+room_9:
+  directivity: 3
+  source_pos:
+  - - 4.754
+    - 2.913
+    - 0.695
+  source_ypr:
+  - - -173.0
+    - 0.0
+room_90:
+  directivity: 3
+  source_pos:
+  - - 4.378
+    - 5.253
+    - 1.288
+  source_ypr:
+  - - 48.0
+    - 0.0
+room_91:
+  directivity: 3
+  source_pos:
+  - - 1.806
+    - 0.415
+    - 2.041
+  source_ypr:
+  - - 83.0
+    - 0.0
+room_92:
+  directivity: 3
+  source_pos:
+  - - 2.96
+    - 2.983
+    - 1.304
+  source_ypr:
+  - - -125.0
+    - 0.0
+room_93:
+  directivity: 1
+  source_pos:
+  - - 0.436
+    - 4.896
+    - 2.253
+  source_ypr:
+  - - 172.0
+    - 0.0
+room_94:
+  directivity: 1
+  source_pos:
+  - - 1.622
+    - 0.706
+    - 0.85
+  source_ypr:
+  - - 111.0
+    - 0.0
+room_95:
+  directivity: 1
+  source_pos:
+  - - 2.896
+    - 0.989
+    - 2.706
+  source_ypr:
+  - - -52.0
+    - 0.0
+room_96:
+  directivity: 3
+  source_pos:
+  - - 0.552
+    - 1.543
+    - 1.092
+  source_ypr:
+  - - -154.0
+    - 0.0
+room_97:
+  directivity: 2
+  source_pos:
+  - - 5.863
+    - 1.742
+    - 1.76
+  source_ypr:
+  - - 95.0
+    - 0.0
+room_98:
+  directivity: 1
+  source_pos:
+  - - 1.858
+    - 0.882
+    - 0.321
+  source_ypr:
+  - - -126.0
+    - 0.0
+room_99:
+  directivity: 3
+  source_pos:
+  - - 1.586
+    - 3.401
+    - 0.694
+  source_ypr:
+  - - 82.0
+    - 0.0
